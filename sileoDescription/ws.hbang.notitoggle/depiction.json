@@ -1,0 +1,35 @@
+{
+    "minVersion": "0.1",
+    "headerImage": "https://cyber.equipment/tape.jpg",
+    "tabs": [{
+        "tabname": "Details",
+        "views": [
+            {
+                "markdown": "## zahu\nasdjlkashjd aslkdjklasjdkl aslkdjklasjd jkalsdjklasd",
+                "class": "DepictionMarkdownView"
+            },
+            {
+                "itemCornerRadius": 9,
+                "itemSize": "{187.5, 406}",
+                "screenshots": [
+                    {
+                        "fullSizeURL": "https://www.itsecurityguru.org/wp-content/uploads/2017/02/cyber-attack-data-breach-1140x570.jpg",
+                        "accessibilityText": "Screenshot",
+                        "url": "https://www.itsecurityguru.org/wp-content/uploads/2017/02/cyber-attack-data-breach-1140x570.jpg"
+                    },
+                    {
+                        "fullSizeURL": "https://i2.wp.com/www.cbn.co.za/wp-content/uploads/2019/03/7-events-.jpg?w=660&ssl=1",
+                        "accessibilityText": "Screenshot",
+                        "url": "https://i2.wp.com/www.cbn.co.za/wp-content/uploads/2019/03/7-events-.jpg?w=660&ssl=1"
+                    },
+                    {
+                        "fullSizeURL": "https://static1.squarespace.com/static/559a3f9be4b0d2540b7167de/t/5a93d64ff9619a83af745acc/1519638101954/logo",
+                        "accessibilityText": "Screenshot",
+                        "url": "https://static1.squarespace.com/static/559a3f9be4b0d2540b7167de/t/5a93d64ff9619a83af745acc/1519638101954/logo"
+                    }
+                ]
+            }
+        ]
+    }],
+    "tintColor": "#f75454"
+}

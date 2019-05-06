@@ -1,0 +1,2152 @@
+Package: ws.hbang.notitoggle
+Name: NotiToggle
+Pre-Depends: firmware (>= 5.0)
+Depends: mobilesubstrate, sbsettings
+Version: 1.0-4
+Architecture: iphoneos-arm
+Description: SBSettings toggle for disabling banner notifications
+Maintainer: thekirbylover <notitoggle@hbang.ws>
+Author: thekirbylover <notitoggle@hbang.ws>
+Section: Addons (SBSettings)
+Installed-Size: 32
+Filename: debs/ws.hbang.notitoggle_1.0-4_iphoneos-arm.deb
+MD5sum: 5a9efc2b9f8594068a0d797e90c5aae5
+Size: 4948
+Depiction: https://cydia.hbang.ws/package/ws.hbang.notitoggle/
+SileoDepiction: https://repo.chariz.io/api/sileo/package/ws.hbang.notitoggle/depiction.json
+
+Package: ws.hbang.acticontact
+Name: ActiContact
+Pre-Depends: firmware (>= 5.0)
+Depends: mobilesubstrate
+Version: 1.0.1
+Architecture: iphoneos-arm
+Description: Add new contacts with an Activator gesture
+Maintainer: HASHBANG Productions <acticontact@hbang.ws>
+Author: HASHBANG Productions <acticontact@hbang.ws>
+Section: Tweaks
+Installed-Size: 44
+Filename: debs/ws.hbang.acticontact_1.0.1-2_iphoneos-arm.deb
+MD5sum: 88f47ee232e3497233fe9530c088999d
+Size: 9536
+Depiction: https://cydia.hbang.ws/package/ws.hbang.acticontact/
+SileoDepiction: https://repo.chariz.io/api/sileo/package/ws.hbang.acticontact/depiction.json
+
+Package: ws.hbang.mtcrashfix
+Name: MTCrashFix
+Conflicts: gsc.opengles-2
+Depends: mobilesubstrate, gsc.multitasking
+Version: 1.0-1
+Architecture: iphoneos-arm
+Description: Fixes multitasking crash on old devices
+Maintainer: HASHBANG Productions <mtcrashfix@hbang.ws>
+Author: HASHBANG Productions <mtcrashfix@hbang.ws>
+Section: Tweaks
+Installed-Size: 32
+Filename: debs/ws.hbang.mtcrashfix_1.0-1_iphoneos-arm.deb
+MD5sum: efe0a3e77b78179dbebf8ebba4efb44c
+Size: 2652
+Depiction: https://cydia.hbang.ws/package/ws.hbang.mtcrashfix/
+SileoDepiction: https://repo.chariz.io/api/sileo/package/ws.hbang.mtcrashfix/depiction.json
+
+Package: ws.hbang.mau5head
+Name: mau5head Zeppelin Logo
+Depends: com.alexzielenski.zeppelin
+Version: 1.0.1
+Architecture: iphoneos-arm
+Description: deadmau5 Zeppelin carrier logo
+Maintainer: kirb <support@hbang.ws>
+Author: kirb <support@hbang.ws>
+Section: Addons (Zeppelin)
+Filename: debs/ws.hbang.mau5head_1.0.1_iphoneos-arm.deb
+MD5sum: efa092382e14105dfeaf01d9c3531ca3
+Size: 4618
+Depiction: https://cydia.hbang.ws/package/ws.hbang.mau5head/
+SileoDepiction: https://repo.chariz.io/api/sileo/package/ws.hbang.mau5head/depiction.json
+
+Package: ws.hbang.fontee
+Name: Fontee
+Pre-Depends: firmware (>= 5.0)
+Depends: mobilesubstrate
+Version: 1.0-1
+Architecture: iphoneos-arm
+Description: Make your system fonts lighter
+Maintainer: HASHBANG Productions <fontee@hbang.ws>
+Author: HASHBANG Productions <fontee@hbang.ws>
+Section: Tweaks
+Installed-Size: 32
+Filename: debs/ws.hbang.fontee_1.0-1_iphoneos-arm.deb
+MD5sum: f98637d380b1952670b826014f67a603
+Size: 2830
+Depiction: https://cydia.hbang.ws/package/ws.hbang.fontee/
+SileoDepiction: https://repo.chariz.io/api/sileo/package/ws.hbang.fontee/depiction.json
+
+Package: ws.hbang.screenfade
+Name: ScreenFade
+Depends: mobilesubstrate
+Version: 1.0~beta-1
+Architecture: iphoneos-arm
+Description: Fade when the screen is dimmed/undimmed
+Maintainer: HASHBANG Productions <screenfade@hbang.ws>
+Author: HASHBANG Productions <screenfade@hbang.ws>
+Section: Tweaks
+Installed-Size: 36
+Filename: debs/ws.hbang.screenfade_1.0~beta-1_iphoneos-arm.deb
+MD5sum: 99e7eddc0832faa37093d0608e600ee1
+Size: 5350
+Depiction: https://cydia.hbang.ws/package/ws.hbang.screenfade/
+SileoDepiction: https://repo.chariz.io/api/sileo/package/ws.hbang.screenfade/depiction.json
+
+Package: ws.hbang.folderblur
+Name: FolderBlur
+Depends: mobilesubstrate
+Version: 1.0~beta3-1
+Architecture: iphoneos-arm
+Description: Blur wallpaper when opening folders
+Maintainer: HASHBANG Productions <support@hbang.ws>
+Author: HASHBANG Productions <support@hbang.ws>
+Section: Tweaks
+Installed-Size: 40
+Filename: debs/ws.hbang.folderblur_1.0~beta3-1_iphoneos-arm.deb
+MD5sum: 35c9137d49960ab480e8f6c0f5c814db
+Size: 6338
+Depiction: https://cydia.hbang.ws/package/ws.hbang.folderblur/
+SileoDepiction: https://repo.chariz.io/api/sileo/package/ws.hbang.folderblur/depiction.json
+
+Package: ws.hbang.newterm
+Name: NewTerm
+Pre-Depends: firmware (>= 5.0), dpkg (>= 1.14.25-8)
+Depends: bash, coreutils, ncurses, system-cmds
+Architecture: iphoneos-arm
+Description: The standard terminal emulator with added awesome
+Maintainer: HASHBANG Productions <support@hbang.ws>
+Author: HASHBANG Productions <support@hbang.ws>
+Section: Terminal Support
+Version: 1.0~beta1
+Installed-Size: 2340
+Filename: debs/ws.hbang.newterm_1.0~beta1_iphoneos-arm.deb
+MD5sum: 7ad971db62c2cf2489b9ef4ff917a663
+Size: 537900
+Depiction: https://cydia.hbang.ws/package/ws.hbang.newterm/
+SileoDepiction: https://repo.chariz.io/api/sileo/package/ws.hbang.newterm/depiction.json
+
+Package: ws.hbang.groupquiet
+Name: GroupQuiet
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>> 1.0)
+Conflicts: ws.hbang.converse
+Replaces: ws.hbang.converse
+Architecture: iphoneos-arm
+Description: Intelligent iMessage group chat muting
+Maintainer: HASHBANG Productions <support@hbang.ws>
+Author: HASHBANG Productions <support@hbang.ws>
+Support: https://cydia.hbang.ws/status#groupquiet
+Section: Tweaks
+Version: 1.0~beta1-2
+Installed-Size: 156
+Filename: debs/ws.hbang.groupquiet_1.0~beta1-2_iphoneos-arm.deb
+MD5sum: 2b71e905d5ae6944d59ff3880f69380d
+Size: 8172
+Depiction: https://cydia.hbang.ws/package/ws.hbang.groupquiet/
+SileoDepiction: https://repo.chariz.io/api/sileo/package/ws.hbang.groupquiet/depiction.json
+
+Package: ws.hbang.writingaletter
+Name: WritingALetter
+Depends: mobilesubstrate, firmware (>= 7.0)
+Architecture: iphoneos-arm
+Description: Would you like help?
+Maintainer: HASHBANG Productions <support@hbang.ws>
+Author: HASHBANG Productions <support@hbang.ws>
+Section: Toys
+Version: 1.0
+Installed-Size: 152
+Filename: debs/ws.hbang.writingaletter_1.0_iphoneos-arm.deb
+MD5sum: 4dd7acf012ead3fa72932a947ee24cbf
+Size: 11972
+Depiction: https://cydia.hbang.ws/package/ws.hbang.writingaletter/
+SileoDepiction: https://repo.chariz.io/api/sileo/package/ws.hbang.writingaletter/depiction.json
+
+Package: ws.hbang.totesactivated
+Name: TotesActivated
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Disable all activation errors
+Maintainer: HASHBANG Productions <support@hbang.ws>
+Author: HASHBANG Productions <support@hbang.ws>
+Section: Tweaks
+Version: 1.0
+Installed-Size: 72
+Filename: debs/ws.hbang.totesactivated_1.0_iphoneos-arm.deb
+MD5sum: 9ff93dc1b6d84c07339414e38981fc5d
+Size: 2822
+Depiction: https://cydia.hbang.ws/package/ws.hbang.totesactivated/
+SileoDepiction: https://repo.chariz.io/api/sileo/package/ws.hbang.totesactivated/depiction.json
+
+Package: ws.hbang.lockkeyboard
+Name: LockKeyboard
+Depends: mobilesubstrate, firmware (>= 7.1)
+Architecture: iphoneos-arm
+Description: Passcode-style keyboard everywhere
+Maintainer: HASHBANG Productions <support@hbang.ws>
+Author: HASHBANG Productions <support@hbang.ws>
+Support: https://www.hbang.ws/faq
+Section: Tweaks
+Version: 1.0~beta3
+Installed-Size: 72
+Filename: debs/ws.hbang.lockkeyboard_1.0~beta3_iphoneos-arm.deb
+MD5sum: c8520df39b803c61fe02e94ddfd6b507
+Size: 4038
+Depiction: https://cydia.hbang.ws/package/ws.hbang.lockkeyboard/
+SileoDepiction: https://repo.chariz.io/api/sileo/package/ws.hbang.lockkeyboard/depiction.json
+
+Package: ws.hbang.cobalia
+Name: Cobalia
+Pre-Depends: firmware (>= 8.0)
+Depends: mobilesubstrate, com.a3tweaks.flipswitch, preferenceloader, ws.hbang.common
+Architecture: iphoneos-arm
+Description: Toggles in the iOS 8 app switcher
+Maintainer: HASHBANG Productions <support@hbang.ws>
+Author: HASHBANG Productions <support@hbang.ws>
+Section: Tweaks
+Version: 1.0~beta1
+Installed-Size: 212
+Filename: debs/ws.hbang.cobalia_1.0~beta1_iphoneos-arm.deb
+MD5sum: 458ebc9520f54349c6ef1163c86e6447
+Size: 22386
+Depiction: https://cydia.hbang.ws/package/ws.hbang.cobalia/
+SileoDepiction: https://repo.chariz.io/api/sileo/package/ws.hbang.cobalia/depiction.json
+
+Package: ws.hbang.flagpaint7
+Name: FlagPaint 2 (iOS 7 & 8)
+Pre-Depends: firmware (>= 7.0)
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.2.2), applist (>= 1.5.9)
+Conflicts: org.thebigboss.flagpaint, ws.hbang.flagpaint7lite
+Replaces: org.thebigboss.flagpaint, ws.hbang.flagpaint7lite
+Architecture: iphoneos-arm
+Description: Tint notifications based on icon color
+Maintainer: HASHBANG Productions <support@hbang.ws>
+Author: HASHBANG Productions <support@hbang.ws>
+Support: https://www.hbang.ws/faq/
+Section: Tweaks
+Tag: cydia::commercial
+Version: 2.5~beta3
+Installed-Size: 424
+Filename: debs/ws.hbang.flagpaint7_2.5~beta3_iphoneos-arm.deb
+MD5sum: 8596302a251280eb5fe20b4e54e3acd7
+Size: 64820
+Depiction: https://cydia.hbang.ws/package/ws.hbang.flagpaint7/
+SileoDepiction: https://repo.chariz.io/api/sileo/package/ws.hbang.flagpaint7/depiction.json
+
+Package: ws.hbang.vlc-ios
+Name: VLC for iOS (Unofficial)
+Pre-Depends: firmware (>= 6.1)
+Version: 2.3.0~hbang-3
+Architecture: iphoneos-arm
+Description: VLC is a free and open source multimedia player.
+Maintainer: HASHBANG Productions <support@hbang.ws>
+Author: HASHBANG Productions <support@hbang.ws>
+Support: https://www.videolan.org/support/
+Depiction: https://cydia.hbang.ws/package/ws.hbang.vlc-ios/
+SileoDepiction: https://repo.chariz.io/api/sileo/package/ws.hbang.vlc-ios/depiction.json
+Section: Multimedia
+Installed-Size: 43992
+Filename: debs/ws.hbang.vlc-ios_2.3.0~hbang-3_iphoneos-arm.deb
+MD5sum: 001e1a78bd25098daafc07154a7dacc4
+Size: 18111650
+
+Package: ws.hbang.bootfail
+Name: BootFail
+Depends: org.chronic-dev.animate
+Version: 1.0-2
+Architecture: iphoneos-arm
+Description: Simulation of a failed boot
+Maintainer: HASHBANG Productions <support@hbang.ws>
+Author: HASHBANG Productions <support@hbang.ws>
+Section: Addons (BootLogo)
+Installed-Size: 4344
+Filename: debs/ws.hbang.bootfail_1.0-2_iphoneos-arm.deb
+MD5sum: 4660f155af3ee8feea1210fe68b68a0e
+Size: 2243850
+Depiction: https://cydia.hbang.ws/package/ws.hbang.bootfail/
+SileoDepiction: https://repo.chariz.io/api/sileo/package/ws.hbang.bootfail/depiction.json
+
+Package: ws.hbang.writingaletter2
+Name: WritingALetter 2
+Depends: mobilesubstrate, ws.hbang.writingaletter2.agents, firmware (>= 8.0)
+Architecture: iphoneos-arm
+Description: Would you like help?
+Maintainer: HASHBANG Productions <support@hbang.ws>
+Author: HASHBANG Productions <support@hbang.ws>
+Section: Toys
+Version: 2.0
+Installed-Size: 288
+Filename: debs/ws.hbang.writingaletter2_2.0_iphoneos-arm.deb
+MD5sum: 1d8f9b72b67582bc5eacf0cb1cdf1087
+Size: 22456
+Depiction: https://cydia.hbang.ws/package/ws.hbang.writingaletter2/
+SileoDepiction: https://repo.chariz.io/api/sileo/package/ws.hbang.writingaletter2/depiction.json
+
+Package: ws.hbang.writingaletter2.agents
+Name: WritingALetter Agents
+Depends: ws.hbang.writingaletter2
+Architecture: iphoneos-arm
+Description: Characters included with WritingALetter
+Maintainer: HASHBANG Productions <support@hbang.ws>
+Author: HASHBANG Productions <support@hbang.ws>
+Section: Addons
+Version: 1.0
+Installed-Size: 18520
+Filename: debs/ws.hbang.writingaletter2.agents_1.0_iphoneos-arm.deb
+MD5sum: 2c5e43f51b884d0bf953ae68054992c0
+Size: 21215332
+Depiction: https://cydia.hbang.ws/package/ws.hbang.writingaletter2.agents/
+SileoDepiction: https://repo.chariz.io/api/sileo/package/ws.hbang.writingaletter2.agents/depiction.json
+
+Package: ws.hbang.pheromone
+Name: Pheromone
+Depends: mobilesubstrate, cydia (>= 1.1.19)
+Conflicts: ws.hbang.codling
+Replaces: ws.hbang.codling
+Architecture: iphoneos-arm
+Description: Cydia. Done right.
+Maintainer: HASHBANG Productions <support@hbang.ws>
+Author: HASHBANG Productions <support@hbang.ws>
+Support: https://www.hbang.ws/faq/
+Section: Tweaks
+Version: 1.0~beta3
+Installed-Size: 204
+Filename: debs/ws.hbang.pheromone_1.0~beta3_iphoneos-arm.deb
+MD5sum: b830342933a4c851e1e9f017242f08ca
+Size: 36324
+Depiction: https://cydia.hbang.ws/package/ws.hbang.pheromone/
+SileoDepiction: https://repo.chariz.io/api/sileo/package/ws.hbang.pheromone/depiction.json
+
+Package: ws.hbang.hbhackertools
+Name: hbhackertools
+Depends: adv-cmds, apt7, basic-cmds, bootstrap-cmds, bzip2, class-dump, com.a3tweaks.flipswitch, com.ericasadun.utilities, com.innoying.sbutils, com.rpetrich.rocketbootstrap, coreutils, crash-reporter, curl, cycript, developer-cmds, diffutils, diskdev-cmds, file, file-cmds, findutils, gawk, gdb, git, gzip, inetutils, iokittools, jp.ashikase.symbolicate, ldid, less, lsof, make, mobilesubstrate, nano, network-cmds, firmware (>= 10.0) | openssh, p7zip, patch, pincrush, pngcrush, preferenceloader, rsync, shell-cmds, sudo, system-cmds, tar, top, uikittools, unrar, unzip, wget, whois, xar, xml2, zip
+Architecture: iphoneos-arm
+Description: Tools for power users and developers
+Maintainer: HASHBANG Productions <support@hbang.ws>
+Author: HASHBANG Productions <support@hbang.ws>
+Section: System
+Depiction: https://cydia.hbang.ws/depiction/ws.hbang.hbhackertools/
+SileoDepiction: https://repo.chariz.io/api/sileo/package/ws.hbang.hbhackertools/depiction.json
+Support: https://hbang.ws/support/
+Tag: role::hacker
+Version: 1.1.3
+Installed-Size: 8
+Filename: debs/ws.hbang.hbhackertools_1.1.3_iphoneos-arm.deb
+SHA256: 9c625b719a342854cde14e619d177b5968581164a7eec87df5e91755936d3362
+MD5sum: 3379b9f69ce147963f20f59d236dad5e
+Size: 1558
+
+Package: ws.hbang.bugger
+Name: Bugger
+Depends: firmware (>= 10.0), mobilesubstrate, libactivator
+Architecture: iphoneos-arm
+Description: Access iOS’s built in UI debugger
+Maintainer: HASHBANG Productions <support@hbang.ws>
+Author: HASHBANG Productions <support@hbang.ws>
+Section: Development
+Depiction: https://cydia.hbang.ws/package/ws.hbang.bugger/
+SileoDepiction: https://repo.chariz.io/api/sileo/package/ws.hbang.bugger/depiction.json
+Support: https://hbang.ws/support/
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: purpose::extension, compatible::ios10
+dev: hbang
+Version: 1.0.1
+Installed-Size: 344
+Filename: debs/ws.hbang.bugger_1.0.1_iphoneos-arm.deb
+SHA256: 6940e10b98dadec01a723db93568937ba8a7ba34924c5e43f2a8ee35ee3acd8a
+MD5sum: ce3afd1cec4af8e2e92d1962cfa46ba8
+Size: 8958
+
+Package: org.swift.libswift-3.1-arm64
+Name: libswift 3.1 (64 bit)
+Depends: cy+cpu.arm64
+Section: Developer
+Architecture: iphoneos-arm
+Description: libswift dylibs for iOS
+Author: Kabir Oberai <support@kabiroberai.com>
+Maintainer: Kabir Oberai <support@kabiroberai.com>
+Version: 3.1.1-2
+Installed-Size: 11696
+Tag: role::developer
+Filename: debs/org.swift.libswift-3.1-arm64_3.1.1-2_iphoneos-arm.deb
+SHA256: 2a75791c64c7369495718a3393d774d979191fbfac7c4e2ef84f0747a670a9bd
+MD5sum: 28b06ebd39b6f2caf274011dd1c04266
+Size: 1658302
+
+Package: ws.hbang.typestatus2
+Name: TypeStatus 2 (iOS 7 – 10)
+Depends: firmware (>= 7.0), firmware (<< 10.3), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.10), com.rpetrich.rocketbootstrap (>= 1.0.5)
+Recommends: firmware (>= 9.0) | libstatusbar (>= 1:0.9.9.0-1), firmware (<< 9.1) | org.thebigboss.libstatus9 (>= 1:0.0.1.5-0)
+Conflicts: ws.hbang.typestatus
+Replaces: ws.hbang.typestatus
+Architecture: iphoneos-arm
+Description: iMessage typing/read indicators in status bar
+Maintainer: HASHBANG Productions <support@hbang.ws>
+Author: HASHBANG Productions <support@hbang.ws>
+Section: Messaging
+Icon: file:///Library/PreferenceBundles/TypeStatus.bundle/icon@2x.png
+Depiction: https://cydia.hbang.ws/package/ws.hbang.typestatus2/
+SileoDepiction: https://repo.chariz.io/api/sileo/package/ws.hbang.typestatus2/depiction.json
+Support: https://hbang.ws/support/
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10
+dev: hbang
+Version: 2.3.2
+Installed-Size: 3864
+Filename: debs/ws.hbang.typestatus2_2.3.2_iphoneos-arm.deb
+SHA256: d2a3b8214eb00218c34aeca3c2b2ad4928961155724d6740a8618569561b8397
+MD5sum: 94ba46df99100d52a4dc2ac61d87fa43
+Size: 132358
+
+Package: ws.hbang.canzone
+Name: Canzone
+Pre-Depends: org.swift.libswift-3.1-arm64 (>= 3.1.1)
+Depends: firmware (>= 10.0), firmware (<< 10.3), cy+cpu.arm64, mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11)
+Architecture: iphoneos-arm
+Description: Widget and notifications for now playing music
+Maintainer: HASHBANG Productions <support@hbang.ws>
+Author: HASHBANG Productions <support@hbang.ws>
+Section: Tweaks
+Icon: file:///Library/PreferenceBundles/Canzone.bundle/icon@2x.png
+Depiction: https://cydia.hbang.ws/depiction/ws.hbang.canzone/
+SileoDepiction: https://repo.chariz.io/api/sileo/package/ws.hbang.canzone/depiction.json
+Support: https://hbang.ws/support/
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: hbang
+Version: 1.0~beta3
+Installed-Size: 1048
+Filename: debs/chrpay/ws.hbang.canzone_1.0~beta3_iphoneos-arm.deb
+SHA256: 1c75fdac4a07698a342c54a48bfea3bdb9b563599b4e261a0a47ee609e14234e
+MD5sum: 968dde1a01c5b15e1e41ea27adaf1d0f
+Size: 93004
+
+Package: ws.hbang.typestatusplus
+Name: TypeStatus Plus
+Depends: firmware (>= 9.0), firmware (<< 10.3), mobilesubstrate, ws.hbang.typestatus2 (>= 2.2.1), ws.hbang.typestatusplusproviders, com.rpetrich.rocketbootstrap (>= 1.0.5), applist (>= 1.5.9)
+Recommends: firmware (>= 9.2) | libstatusbar (>= 1:0.9.9.0-1), firmware (<< 9.2) | libmoorecon
+Architecture: iphoneos-arm
+Description: Lots of messaging-related features
+Maintainer: HASHBANG Productions <support@hbang.ws>
+Author: HASHBANG Productions <support@hbang.ws>
+Section: Messaging
+Icon: file:///Library/PreferenceBundles/TypeStatusPlus.bundle/icon@2x.png
+Depiction: https://cydia.hbang.ws/package/ws.hbang.typestatusplus/
+SileoDepiction: https://repo.chariz.io/api/sileo/package/ws.hbang.typestatusplus/depiction.json
+Support: https://hbang.ws/support/
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: purpose::extension, compatible::ios9, compatible::ios10, cydia::commercial
+dev: hbang
+Version: 1.4
+Installed-Size: 3992
+Filename: debs/chrpay/ws.hbang.typestatusplus_1.4_iphoneos-arm.deb
+SHA256: 9aac89964e7c4b8c028e9704ce2c13ccb64ea5235c3971cc534568a27b4ebaea
+MD5sum: 35b55a62ee4f7de62aa9dc81ef267a86
+Size: 306320
+
+Package: ws.hbang.typestatusplusproviders
+Name: TypeStatus Plus Providers
+Depends: ws.hbang.typestatusplus
+Architecture: iphoneos-arm
+Description: Support for various messaging apps
+Maintainer: HASHBANG Productions <support@hbang.ws>
+Author: HASHBANG Productions <support@hbang.ws>
+Section: Messaging
+Icon: file:///Library/PreferenceBundles/TypeStatusPlus.bundle/icon@2x.png
+Support: https://hbang.ws/support/
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: purpose::extension, compatible::ios9, compatible::ios10
+dev: hbang
+Version: 1.1
+Installed-Size: 1576
+Filename: debs/chrpay/ws.hbang.typestatusplusproviders_1.1_iphoneos-arm.deb
+SHA256: e2c044710e62ce6a6d12f611976785603ffd395dedd5f895d8193860480c0613
+MD5sum: 8e447d8075f8e45f3589d4de64548a99
+Size: 26820
+
+Package: ws.hbang.common
+Name: Cephei
+Depends: mobilesubstrate, preferenceloader, jp.ashikase.techsupport, com.rpetrich.rocketbootstrap
+Architecture: iphoneos-arm
+Description: Support library for tweaks
+Maintainer: HASHBANG Productions <support@hbang.ws>
+Author: HASHBANG Productions <support@hbang.ws>
+Section: Development
+Icon: file:///Library/PreferenceBundles/Cephei.bundle/icon@2x.png
+Depiction: https://cydia.hbang.ws/package/ws.hbang.common/
+SileoDepiction: https://repo.chariz.io/api/sileo/package/ws.hbang.common/depiction.json
+Support: https://hbang.ws/support/
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: purpose::extension, compatible::ios5, compatible::ios6, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10
+dev: hbang
+Version: 1.11.1
+Installed-Size: 1372
+Filename: debs/ws.hbang.common_1.11.1_iphoneos-arm.deb
+SHA256: 1ea02df03637833dae050a90126f81e5ad01a2d021fc4fb22ae33468880b3d53
+MD5sum: 0131160ff26d42b5e4e68e121fa6662c
+Size: 131872
+
+Package: ws.hbang.common
+Name: Cephei
+Depends: mobilesubstrate, preferenceloader, jp.ashikase.techsupport, com.rpetrich.rocketbootstrap
+Architecture: iphoneos-arm
+Description: Support library for tweaks
+Maintainer: HASHBANG Productions <support@hbang.ws>
+Author: HASHBANG Productions <support@hbang.ws>
+Section: Development
+Icon: file:///Library/PreferenceBundles/Cephei.bundle/icon@2x.png
+Depiction: https://cydia.hbang.ws/package/ws.hbang.common/
+SileoDepiction: https://repo.chariz.io/api/sileo/package/ws.hbang.common/depiction.json
+Support: https://hbang.ws/support/
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: purpose::extension, compatible::ios5, compatible::ios6, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10
+dev: hbang
+Version: 1.11.2
+Installed-Size: 1372
+Filename: debs/ws.hbang.common_1.11.2_iphoneos-arm.deb
+SHA256: 35aa3c8caf3c02178b5346c7f697d27ede578257e578cfd6a005ca71f9d2e944
+MD5sum: 394bf560a34cbf260e7190df3ec2f9fd
+Size: 132066
+
+Package: ws.hbang.common
+Name: Cephei
+Depends: mobilesubstrate, preferenceloader, jp.ashikase.techsupport, com.rpetrich.rocketbootstrap
+Architecture: iphoneos-arm
+Description: Support library for tweaks
+Maintainer: HASHBANG Productions <support@hbang.ws>
+Author: HASHBANG Productions <support@hbang.ws>
+Section: Development
+Icon: file:///Library/PreferenceBundles/Cephei.bundle/icon@2x.png
+Depiction: https://cydia.hbang.ws/package/ws.hbang.common/
+SileoDepiction: https://repo.chariz.io/api/sileo/package/ws.hbang.common/depiction.json
+Support: https://hbang.ws/support/
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: purpose::extension, compatible::ios5, compatible::ios6, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10
+dev: hbang
+Version: 1.11.3
+Installed-Size: 1372
+Filename: debs/ws.hbang.common_1.11.3_iphoneos-arm.deb
+SHA256: f71169b1ca6a444802846179da7c2d339ea29a21a618744c7068d5008315aedd
+MD5sum: 55787243195fc564676f40bd63302739
+Size: 131780
+
+Package: ws.hbang.libopener
+Name: Opener
+Depends: firmware (>= 5.0), firmware (<< 11.0), mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap, ws.hbang.common (>= 1.11)
+Architecture: iphoneos-arm
+Description: Developer library for overriding link destinations
+Maintainer: HASHBANG Productions <support@hbang.ws>
+Author: HASHBANG Productions <support@hbang.ws>
+Section: Development
+Icon: file:///Library/PreferenceBundles/Opener.bundle/icon@2x.png
+Depiction: https://cydia.hbang.ws/package/ws.hbang.libopener/
+SileoDepiction: https://repo.chariz.io/api/sileo/package/ws.hbang.libopener/depiction.json
+Support: https://hbang.ws/support/
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: purpose::extension, compatible::ios5, compatible::ios6, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11
+dev: hbang
+Version: 3.1.3
+Installed-Size: 472
+Filename: debs/ws.hbang.libopener_3.1.3_iphoneos-arm.deb
+SHA256: 8861b0c96321a0ef4fb95def1601099877cf418bdc695eddda543168e53ee293
+MD5sum: cfe4f4d4ea3cf0a9afb3db1963a00728
+Size: 46400
+
+Package: ws.hbang.newterm2
+Name: NewTerm 2
+Depends: firmware (>= 6.0), bash, coreutils, ncurses, system-cmds, com.linusyang.localeutf8, ws.hbang.common (>= 1.11.2)
+Conflicts: ws.hbang.newterm
+Replaces: ws.hbang.newterm
+Architecture: iphoneos-arm
+Description: A powerful terminal emulator for iOS
+Maintainer: HASHBANG Productions <support@hbang.ws>
+Author: HASHBANG Productions <support@hbang.ws>
+Section: Terminal Support
+Icon: file:///Applications/NewTerm.app/Icon-Small@2x.png
+Depiction: https://cydia.hbang.ws/package/ws.hbang.newterm2/
+SileoDepiction: https://repo.chariz.io/api/sileo/package/ws.hbang.newterm2/depiction.json
+Support: https://hbang.ws/support/
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: compatible::ios6, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11
+dev: hbang
+Version: 2.0~beta3
+Installed-Size: 1732
+Filename: debs/ws.hbang.newterm2_2.0~beta3_iphoneos-arm.deb
+SHA256: 4479cd697d0537f319e7bdaea0470984d1f1a91b73a2b5163d053d37fb5d7e3d
+MD5sum: f917fe871a3b21767b8d252f8bdfbe80
+Size: 627960
+
+Package: ws.hbang.typestatus2
+Name: TypeStatus 2 (iOS 7 – 11)
+Depends: firmware (>= 7.0), firmware (<< 11.3), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), com.rpetrich.rocketbootstrap (>= 1.0.5)
+Recommends: firmware (>= 9.0) | libstatusbar (>= 1:0.9.9.0-1), firmware (<< 9.1) | org.thebigboss.libstatus9 (>= 1:0.0.1.5-0)
+Conflicts: ws.hbang.typestatus
+Replaces: ws.hbang.typestatus
+Breaks: ws.hbang.typestatusplus (<< 1.5)
+Architecture: iphoneos-arm
+Description: iMessage typing/read indicators in status bar
+Maintainer: HASHBANG Productions <support@hbang.ws>
+Author: HASHBANG Productions <support@hbang.ws>
+Section: Messaging
+Icon: file:///Library/PreferenceBundles/TypeStatus.bundle/icon@2x.png
+Depiction: https://cydia.hbang.ws/package/ws.hbang.typestatus2/
+SileoDepiction: https://repo.chariz.io/api/sileo/package/ws.hbang.typestatus2/depiction.json
+Support: https://hbang.ws/support/
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11
+dev: hbang
+Version: 2.4~beta2-2
+Installed-Size: 1872
+Filename: debs/ws.hbang.typestatus2_2.4~beta2-2_iphoneos-arm.deb
+SHA256: 028696fc0e7e2a52fb8b7d5c06ba031040d09ed6b241c4a15077643d49203222
+MD5sum: 9e04bead742d1ae2454b13090afa67f7
+Size: 154084
+
+Package: ws.hbang.libopener
+Name: Opener
+Depends: firmware (>= 5.0), firmware (<< 11.3), mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap, ws.hbang.common (>= 1.11)
+Architecture: iphoneos-arm
+Description: Developer library for overriding link destinations
+Maintainer: HASHBANG Productions <support@hbang.ws>
+Author: HASHBANG Productions <support@hbang.ws>
+Section: Development
+Icon: file:///Library/PreferenceBundles/Opener.bundle/icon@2x.png
+Depiction: https://cydia.hbang.ws/package/ws.hbang.libopener/
+SileoDepiction: https://repo.chariz.io/api/sileo/package/ws.hbang.libopener/depiction.json
+Support: https://hbang.ws/support/
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: purpose::extension, compatible::ios5, compatible::ios6, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11
+dev: hbang
+Version: 3.2.1
+Installed-Size: 732
+Filename: debs/ws.hbang.libopener_3.2.1_iphoneos-arm.deb
+SHA256: 51584b748136121f3783ed802248bd131d5472dc6047bf109b451a1da0adb168
+MD5sum: 8be2682aee84b23cbcccf1dbf1c41076
+Size: 64858
+
+Package: htop
+Architecture: iphoneos-arm
+Maintainer: HASHBANG Productions <support@hbang.ws>
+Depends: ncurses
+Homepage: http://hisham.hm/htop/
+Description: interactive processes viewer
+ Htop is an ncursed-based process viewer similar to top, but it
+ allows one to scroll the list vertically and horizontally to see
+ all processes and their full command lines.
+ .
+ Tasks related to processes (killing, renicing) can be done without
+ entering their PIDs.
+Section: Administration
+Tag: purpose::console, role::hacker
+Version: 2.1.0
+Installed-Size: 372
+Filename: debs/htop_2.1.0_iphoneos-arm.deb
+SHA256: 5801cbc6e30a306471a513731ae38ca0a7f31dfeb60cd937729e8691b42eb9e8
+MD5sum: 78263309d5b1e2552f35b35e1b217c44
+Size: 99248
+
+Package: ws.hbang.newterm2
+Name: NewTerm 2 (iOS 7 – 11)
+Depends: firmware (>= 7.0), com.modmyi.libswift4 (>= 4.0.3-3), ws.hbang.common (>= 1.11.2), bash, coreutils, ncurses, system-cmds, com.linusyang.localeutf8
+Conflicts: ws.hbang.newterm
+Replaces: ws.hbang.newterm
+Architecture: iphoneos-arm
+Description: A powerful terminal app for iOS
+Maintainer: HASHBANG Productions <support@hbang.ws>
+Author: HASHBANG Productions <support@hbang.ws>
+Section: Terminal Support
+Icon: file:///Applications/NewTerm.app/Icon-Small@2x.png
+Depiction: https://cydia.hbang.ws/package/ws.hbang.newterm2/
+SileoDepiction: https://repo.chariz.io/api/sileo/package/ws.hbang.newterm2/depiction.json
+Support: https://hbang.ws/support/
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11
+dev: hbang
+Version: 2.0
+Installed-Size: 2192
+Filename: debs/ws.hbang.newterm2_2.0_iphoneos-arm.deb
+SHA256: 52830b7cace4229c802f864e660a7128e48fcb60cad7f19e351bf685ffe8f283
+MD5sum: 07ecb5140e97da96e5ff72bdbdfc7949
+Size: 739528
+
+Package: com.leftyfl1p.carplay
+Name: CarBridge
+Depends: firmware (>= 10.0), mobilesubstrate, applist, com.rpetrich.rocketbootstrap, preferenceloader, ch.ringwald.hidsupport, ws.hbang.common
+Architecture: iphoneos-arm
+Description: Open any app in CarPlay!
+Maintainer: leftyfl1p
+Author: leftyfl1p <carbridgetweak@gmail.com>
+Section: Tweaks
+Conflicts: com.eason.carplay, com.eason.carplay.ios11
+Depiction: https://cydia.hbang.ws/package/com.leftyfl1p.carplay/
+SileoDepiction: https://repo.chariz.io/api/sileo/package/com.leftyfl1p.carplay/depiction.json
+Tags: cydia::commercial
+Version: 1.0
+Installed-Size: 4652
+Filename: debs/chrpay/com.leftyfl1p.carplay_1.0_iphoneos-arm.deb
+SHA256: ac35222c4bee8ce40278cb56613f7858cb7f59a1dffea6af60c52996cc38c533
+MD5sum: c072d436ddd2ddff43b21e11cfb2370b
+Size: 3181920
+
+Package: ws.hbang.typestatus2
+Name: TypeStatus 2 (iOS 7 – 11)
+Depends: firmware (>= 7.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), com.rpetrich.rocketbootstrap (>= 1.0.5)
+Recommends: firmware (>= 9.0) | libstatusbar (>= 1:0.9.9.0-1), firmware (<< 9.1) | org.thebigboss.libstatus9 (>= 1:0.0.1.5-0)
+Conflicts: ws.hbang.typestatus
+Replaces: ws.hbang.typestatus
+Breaks: ws.hbang.typestatusplus (<< 1.5)
+Architecture: iphoneos-arm
+Description: iMessage typing/read indicators in status bar
+Maintainer: HASHBANG Productions <support@hbang.ws>
+Author: HASHBANG Productions <support@hbang.ws>
+Section: Messaging
+Icon: file:///Library/PreferenceBundles/TypeStatus.bundle/icon@2x.png
+Depiction: https://cydia.hbang.ws/package/ws.hbang.typestatus2/
+SileoDepiction: https://repo.chariz.io/api/sileo/package/ws.hbang.typestatus2/depiction.json
+Support: https://hbang.ws/support/
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11
+dev: hbang
+Version: 2.4~beta3
+Installed-Size: 1840
+Filename: debs/ws.hbang.typestatus2_2.4~beta3_iphoneos-arm.deb
+SHA256: 67d87237409c9015ef20633dc44e909d23ecf67c52cd5b25c4e0c63328110ad2
+MD5sum: 767aff073dccf1d7f5587e6f9fdf3234
+Size: 150042
+
+Package: ws.hbang.libopener
+Name: Opener
+Depends: firmware (>= 5.0), mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap, ws.hbang.common (>= 1.11)
+Architecture: iphoneos-arm
+Description: Developer library for overriding link destinations
+Maintainer: HASHBANG Productions <support@hbang.ws>
+Author: HASHBANG Productions <support@hbang.ws>
+Section: Development
+Icon: file:///Library/PreferenceBundles/Opener.bundle/icon@2x.png
+Depiction: https://cydia.hbang.ws/package/ws.hbang.libopener/
+SileoDepiction: https://repo.chariz.io/api/sileo/package/ws.hbang.libopener/depiction.json
+Support: https://hbang.ws/support/
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: purpose::extension, compatible::ios5, compatible::ios6, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11
+dev: hbang
+Version: 3.2.2
+Installed-Size: 732
+Filename: debs/ws.hbang.libopener_3.2.2_iphoneos-arm.deb
+SHA256: 6a99c436a8e74145790b2c9e45bdab1a56448c064831f482c0363d39e834530b
+MD5sum: fe62080b8392ff473f5cc0eecf9be5f3
+Size: 64882
+
+Package: com.lnx.dimid
+Name: Dimid
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, ws.hbang.common, org.thebigboss.libcolorpicker
+Architecture: iphoneos-arm
+Description: Dim your phone to your pleasure!
+Maintainer: LonestarX <me@lonestarx.net>
+Author: LonestarX <me@lonestarx.net>
+Section: Tweaks
+Icon: file:///Library/PreferenceBundles/Dimid.bundle/icon@2x.png
+Tag: cydia::commercial, compatible::ios11
+Depiction: https://repo.chariz.io/package/com.lnx.dimid/
+SileoDepiction: https://repo.chariz.io/api/sileo/package/com.lnx.dimid/depiction.json
+Version: 1.0.0
+Installed-Size: 328
+Filename: debs/chrpay/com.lnx.dimid_1.0.0_iphoneos-arm.deb
+SHA256: 3fa1d13b96060a77736396d4483952df8161b47a2686ea38651fcef4623938c4
+MD5sum: 449d2b1ea861401fd237c3ec44fe866d
+Size: 80540
+
+Package: com.lnx.dimid
+Name: Dimid
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, ws.hbang.common
+Architecture: iphoneos-arm
+Description: Dim your phone to your pleasure!
+Maintainer: LonestarX <me@lonestarx.net>
+Author: LonestarX <me@lonestarx.net>
+Icon: file:///Library/PreferenceBundles/Dimid.bundle/icon@2x.png
+Tag: cydia::commercial, compatible::ios11
+Depiction: https://repo.chariz.io/package/com.lnx.dimid/
+SileoDepiction: https://repo.chariz.io/api/sileo/package/com.lnx.dimid/depiction.json
+Section: Tweaks
+Version: 1.0.1
+Installed-Size: 352
+Filename: debs/chrpay/com.lnx.dimid_1.0.1_iphoneos-arm.deb
+SHA256: c048a71a718cd871e4f162edca7ebdb945d232ea9e44ce426273d292e348e221
+MD5sum: 27a130922b9331535b6fe994b7573bb2
+Size: 88258
+
+Package: com.lnx.dimid
+Name: Dimid
+Depends: mobilesubstrate, ws.hbang.common, libactivator, preferenceloader
+Architecture: iphoneos-arm
+Description: Dim your phone to your pleasure!
+Maintainer: LonestarX <me@lonestarx.net>
+Author: LonestarX <me@lonestarx.net>
+Section: Tweaks
+Icon: file:///Library/PreferenceBundles/Dimid.bundle/icon@2x.png
+Tag: cydia::commercial, compatible::ios11
+Depiction: https://repo.chariz.io/package/com.lnx.dimid/
+SileoDepiction: https://repo.chariz.io/api/sileo/package/com.lnx.dimid/depiction.json
+Version: 1.0.2
+Installed-Size: 356
+Filename: debs/chrpay/com.lnx.dimid_1.0.2_iphoneos-arm.deb
+SHA256: c220e9dd837371fd403697a598ebc4e2876c7d56cfd065d76f2f8313390e791f
+MD5sum: f058ca917cb65e75744abfc30ed09e99
+Size: 89922
+
+Package: eu.bednarz.eyeris
+Name: Mojito
+Version: 2.0
+Depends: firmware (>= 7.0), mobilesubstrate, com.anemonetheming.anemone
+Architecture: iphoneos-arm
+Description: A skeuomodern theme.
+Section: Themes
+Author: Dennis D. Bednarz <Dennis.bednarz@outlook.com>
+Maintainer: Dennis D. Bednarz <Dennis.bednarz@outlook.com>
+Tag: compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11
+Depiction: https://repo.chariz.io/package/eu.bednarz.eyeris/
+SileoDepiction: https://repo.chariz.io/api/sileo/package/eu.bednarz.eyeris/depiction.json
+Filename: debs/eu.bednarz.eyeris_2.0_iphoneos-arm.deb
+SHA256: 621ca383324f6209d7081f015dc0cdff4bdf3cc325c74222d94d8780b3140e1d
+MD5sum: 16537117613d82bbcc6165c5db2a0ca3
+Size: 1861492
+
+Package: com.1conan.evanescoxi
+Name: EvanescoXI
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Clear Your Homescreen After Inactivity
+Maintainer: 1Conan <me@1conan.com>
+Author: CP Digital Darkroom, 1Conan <me@1conan.com>
+Conflicts: com.cpdigitaldarkroom.evanesco
+Section: Tweaks
+Icon: file:///Library/PreferenceLoader/Preferences/Evanesco@3x.png
+Tag: compatible::ios11
+Depiction: https://repo.chariz.io/package/com.1conan.evanescoxi/
+SileoDepiction: https://repo.chariz.io/api/sileo/package/com.1conan.evanescoxi/depiction.json
+Version: 1.3.0
+Installed-Size: 548
+Filename: debs/com.1conan.evanescoxi_1.3.0_iphoneos-arm.deb
+SHA256: 064adb30c61b440cdff19810283577119ec5a9ccde3fc8ed5826ca365ae9c93f
+MD5sum: c76e5b2dbee225bc73b3b039c6804d02
+Size: 124504
+
+Package: com.lnx.dimid
+Name: Dimid
+Depends: mobilesubstrate, ws.hbang.common, preferenceloader
+Architecture: iphoneos-arm
+Description: Dim your phone to your pleasure!
+Maintainer: LonestarX <me@lonestarx.net>
+Author: LonestarX <me@lonestarx.net>
+Section: Tweaks
+Icon: file:///Library/PreferenceBundles/Dimid.bundle/icon@2x.png
+Tag: cydia::commercial, compatible::ios11
+Depiction: https://repo.chariz.io/package/com.lnx.dimid/
+SileoDepiction: https://repo.chariz.io/api/sileo/package/com.lnx.dimid/depiction.json
+Version: 1.0.2-1
+Installed-Size: 356
+Filename: debs/chrpay/com.lnx.dimid_1.0.2-1_iphoneos-arm.deb
+SHA256: 8de5fc5fa34ac9eb5f0a390044e9c6572ea3b3114fc76ea2eff6109d8f6f742a
+MD5sum: f66ba35f02f60da04bf0c69e012f013b
+Size: 90010
+
+Package: com.lnx.dimid
+Name: Dimid
+Depends: mobilesubstrate, ws.hbang.common, preferenceloader
+Architecture: iphoneos-arm
+Description: Dim your phone to your pleasure!
+Maintainer: LonestarX <me@lonestarx.net>
+Author: LonestarX <me@lonestarx.net>
+Section: Tweaks
+Icon: file:///Library/PreferenceBundles/Dimid.bundle/icon@2x.png
+Tag: cydia::commercial, compatible::ios11
+Depiction: https://repo.chariz.io/package/com.lnx.dimid/
+SileoDepiction: https://repo.chariz.io/api/sileo/package/com.lnx.dimid/depiction.json
+Version: 1.0.2-2
+Installed-Size: 356
+Filename: debs/chrpay/com.lnx.dimid_1.0.2-2_iphoneos-arm.deb
+SHA256: a7212f091c55b565d046a50f3705940e9dc656c62b5b4178454f5ef6323c2bfa
+MD5sum: da496b55638a6473412cb58d7ece36cc
+Size: 90038
+
+Package: com.pwn20wnd.semirestore11
+Architecture: iphoneos-arm
+Description: A full system unjailbreaker that supports all devices running iOS 11.3 to 11.4 Beta 3.
+Maintainer: Pwn20wnd <pwn20wndstuff@gmail.com>
+Depends: cy+cpu.arm64, coreutils-bin, firmware (>= 11.3), firmware (<< 11.4.1)
+Conflicts: org.coolstar.semirestore11-lite
+Replaces: org.coolstar.semirestore11-lite
+Section: System
+Author: Pwn20wnd <pwn20wndstuff@gmail.com>
+Icon: file:///Applications/Rollectra.app/AppIcon29x29@2x.png
+Tag: compatible::ios11
+Depiction: https://repo.chariz.io/package/com.pwn20wnd.semirestore11/
+SileoDepiction: https://repo.chariz.io/api/sileo/package/com.pwn20wnd.semirestore11/depiction.json
+Name: SemiRestore11 / Rollectra
+Version: 1.1-2
+Installed-Size: 188
+Filename: debs/com.pwn20wnd.semirestore11_1.1-2_iphoneos-arm.deb
+SHA256: 9dad5db107ac4157f1f70726f61d1313017afe87875db406d7aa485bcdc474e5
+MD5sum: 3a4cf2bb1c59fbe23cfd3d515ff0d4af
+Size: 50888
+
+Package: com.golddavid.colorflow4
+Name: ColorFlow 4 (iOS 11)
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5.000), preferenceloader
+Conflicts: org.thebigboss.colorflow, com.golddavid.colorflow2, com.golddavid.colorflow3
+Replaces: org.thebigboss.colorflow, com.golddavid.colorflow2, com.golddavid.colorflow3
+Architecture: iphoneos-arm
+Description: one colorful boi
+Maintainer: David Goldman <help@golddavid.com>
+Author: David Goldman <help@golddavid.com>
+Section: Tweaks
+Tag: cydia::commercial, compatible::ios11
+Icon: file:///Library/PreferenceBundles/ColorFlow4Prefs.bundle/ColorFlow@3x.png
+Depiction: https://repo.chariz.io/package/com.golddavid.colorflow4/
+SileoDepiction: https://repo.chariz.io/api/sileo/package/com.golddavid.colorflow4/depiction.json
+Version: 1.0.0
+Installed-Size: 1284
+Filename: debs/chrpay/com.golddavid.colorflow4_1.0.0_iphoneos-arm.deb
+SHA256: 1b246ae61e613873695e318d9fceecfd58aa41c01b862e3898273b548c94ec38
+MD5sum: d5c9c39853d9f0217c34406142ea3da4
+Size: 663680
+
+Package: com.golddavid.colorflow4
+Name: ColorFlow 4 (iOS 11)
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5.000), preferenceloader
+Conflicts: org.thebigboss.colorflow, com.golddavid.colorflow2, com.golddavid.colorflow3
+Replaces: org.thebigboss.colorflow, com.golddavid.colorflow2, com.golddavid.colorflow3
+Architecture: iphoneos-arm
+Description: one colorful boi
+Depiction: https://repo.chariz.io/package/com.golddavid.colorflow4/
+SileoDepiction: https://repo.chariz.io/api/sileo/package/com.golddavid.colorflow4/depiction.json
+Maintainer: David Goldman <help@golddavid.com>
+Author: David Goldman <help@golddavid.com>
+Section: Tweaks
+Tag: cydia::commercial, compatible::ios11
+Icon: file:///Library/PreferenceBundles/ColorFlow4Prefs.bundle/ColorFlow@3x.png
+Version: 1.0.1
+Installed-Size: 1284
+Filename: debs/chrpay/com.golddavid.colorflow4_1.0.1_iphoneos-arm.deb
+SHA256: 657c6eddc3f7123c3fd2fd1fe443eb44d90f3edfd6ec52dff5e76b04bdc1a745
+MD5sum: 5a5801a570d9516d00d280da300c9eb3
+Size: 664052
+
+Package: eu.bednarz.eyeris
+Name: Mojito
+Version: 2.0.1
+Depends: firmware (>= 7.0), mobilesubstrate, com.anemonetheming.anemone
+Architecture: iphoneos-arm
+Description: A skeuomodern theme.
+Section: Themes
+Author: Unikue Inc. <Dennis.bednarz@outlook.com>
+Maintainer: Unikue Inc. <Dennis.bednarz@outlook.com>
+Tag: compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11
+Depiction: https://repo.chariz.io/package/eu.bednarz.eyeris/
+SileoDepiction: https://repo.chariz.io/api/sileo/package/eu.bednarz.eyeris/depiction.json
+Filename: debs/eu.bednarz.eyeris_1.0.2_iphoneos-arm.deb
+SHA256: 98b1defc417d0bbab542d840a9744833e31728e7166abf29b7a2512cd769ec5c
+MD5sum: 269fcce94beb008b5aa879bea8bf6872
+Size: 1978362
+
+Package: com.pwn20wnd.semirestore11
+Architecture: iphoneos-arm
+Description: A full system unjailbreaker that supports all devices running iOS 11.3 to 11.4 Beta 3.
+Maintainer: Pwn20wnd <pwn20wndstuff@gmail.com>
+Depends: cy+cpu.arm64, coreutils-bin, uikittools, firmware (>= 11.3), firmware (<< 11.4.1)
+Conflicts: org.coolstar.semirestore11-lite
+Replaces: org.coolstar.semirestore11-lite
+Section: System
+Author: Pwn20wnd <pwn20wndstuff@gmail.com>
+Icon: file:///Applications/Rollectra.app/AppIcon29x29@2x.png
+Tag: compatible::ios11                           
+Depiction: https://repo.chariz.io/package/com.pwn20wnd.semirestore11/
+SileoDepiction: https://repo.chariz.io/api/sileo/package/com.pwn20wnd.semirestore11/depiction.json
+Name: SemiRestore11 / Rollectra
+Version: 1.1.2-1
+Installed-Size: 172
+Filename: debs/com.pwn20wnd.semirestore11_1.1.2-1_iphoneos-arm.deb
+SHA256: ecaebc0f1ab421783736c0bd2d88021d8a7bb7dba39dbe6a6cc0aff020fc1642
+MD5sum: a856629dc19000e9bf18f9a93e4fd226
+Size: 50442
+
+Package: com.leftyfl1p.carplay
+Name: CarBridge
+Depends: firmware (>= 10.0), mobilesubstrate, applist, com.rpetrich.rocketbootstrap, preferenceloader, ch.ringwald.hidsupport, ws.hbang.common
+Architecture: iphoneos-arm
+Description: Open any app in CarPlay!
+Depiction: https://repo.chariz.io/package/com.leftyfl1p.carplay/
+SileoDepiction: https://repo.chariz.io/api/sileo/package/com.leftyfl1p.carplay/depiction.json
+Maintainer: leftyfl1p <carbridgetweak@gmail.com>
+Author: leftyfl1p <carbridgetweak@gmail.com>
+Section: Tweaks
+Conflicts: com.eason.carplay, com.eason.carplay.ios11
+Tag: cydia::commercial, compatible::ios10, compatible::ios11
+Icon: file:///Library/PreferenceBundles/CarBridgePreferences.bundle/CarBridge@2x.png
+Version: 1.0.1
+Installed-Size: 4656
+Filename: debs/chrpay/com.leftyfl1p.carplay_1.0.1_iphoneos-arm.deb
+SHA256: f28aac9394dc780b8636fd2692dcd663a913fa9e8906f1f271a8b96ece4a5ba0
+MD5sum: 848ad51b3e1973971c5b7bd030c4b447
+Size: 3184524
+
+Package: com.leftyfl1p.carplay
+Name: CarBridge
+Depends: firmware (>= 10.0), mobilesubstrate, applist, com.rpetrich.rocketbootstrap, preferenceloader, ch.ringwald.hidsupport, ws.hbang.common
+Architecture: iphoneos-arm
+Description: Open any app in CarPlay!
+Depiction: https://repo.chariz.io/package/com.leftyfl1p.carplay/
+SileoDepiction: https://repo.chariz.io/api/sileo/package/com.leftyfl1p.carplay/depiction.json
+Maintainer: leftyfl1p <carbridgetweak@gmail.com>
+Author: leftyfl1p <carbridgetweak@gmail.com>
+Section: Tweaks
+Conflicts: com.eason.carplay, com.eason.carplay.ios11
+Tag: cydia::commercial, compatible::ios10, compatible::ios11
+Icon: file:///Library/PreferenceBundles/CarBridgePreferences.bundle/CarBridge@2x.png
+Version: 1.0.2
+Installed-Size: 4656
+Filename: debs/chrpay/com.leftyfl1p.carplay_1.0.2_iphoneos-arm.deb
+SHA256: efc36acc09dc1070c9d989060ae4d762fb5dc66fc00454a7b1dbeb4614e58fce
+MD5sum: 786c6a5c17f49c0df8fe5f10b39abbbd
+Size: 3184502
+
+Package: com.spark.snowboard
+Name: Snowboard
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Snowboard theming engine
+Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Maintainer: Spark <info@sparkservers.co.uk>
+Author: Spark & Dennis D. Bednarz <info@sparkservers.co.uk>
+Section: Tweaks
+Version: 1.0
+Installed-Size: 964
+Tag: compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible:ios11
+Depiction: https://repo.chariz.io/package/com.spark.snowboard/
+SileoDepiction: https://repo.chariz.io/api/sileo/package/com.spark.snowboard/depiction.json
+Filename: debs/com.spark.snowboard_1.0_iphoneos-arm.deb
+SHA256: 06d4890ce8934ab9157e94d259f35306036683c437289526c65fe59e8fb032eb
+MD5sum: 5a2944eec4a6247ae3040d2910b2d283
+Size: 353464
+
+Package: eu.bednarz.eyeris
+Name: Mojito
+Version: 2.0.2
+Depends: firmware (>= 7.0), mobilesubstrate, com.spark.snowboard | com.anemonetheming.anemone
+Architecture: iphoneos-arm
+Description: A skeuomodern theme.
+Section: Themes
+Author: Unikue Hobby <bednarz@unikue.solutions>
+Maintainer: Unikue Hobby <bednarz@unikue.solutions>
+Tag: compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11
+Depiction: https://repo.chariz.io/package/eu.bednarz.eyeris/
+SileoDepiction: https://repo.chariz.io/api/sileo/package/eu.bednarz.eyeris/depiction.json
+Filename: debs/eu.bednarz.eyeris_2.0.2_iphoneos-arm.deb
+SHA256: 7dbdba2f68cfa637e2c626512e4f5fca182782b50e3b737bc125d2b5d249b9d1
+MD5sum: ee8e75c0e1e9ed73e035014803598656
+Size: 1961632
+
+Package: com.spark.snowboard
+Name: SnowBoard
+Depends: mobilesubstrate, jp.ashikase.techsupport, preferenceloader
+Architecture: iphoneos-arm
+Description: Snowboard theming engine
+Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Maintainer: Spark <info@sparkservers.co.uk>
+Author: Spark & Dennis D. Bednarz <info@sparkservers.co.uk>
+Section: Tweaks
+Version: 1.0.1
+Installed-Size: 964
+Tag: compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11
+Depiction: https://repo.chariz.io/package/com.spark.snowboard/
+SileoDepiction: https://repo.chariz.io/api/sileo/package/com.spark.snowboard/depiction.json
+Icon: file:///Library/PreferenceBundles/SnowboardPrefs.bundle/icon@2x.png
+Filename: debs/com.spark.snowboard_1.0.1_iphoneos-arm.deb
+SHA256: 051fb48145922dbaf38c6b0a2b0248436619960737c44420823d3950eecb3895
+MD5sum: d362c7b117250bdaa74bfee9baf1e39d
+Size: 355204
+
+Package: com.midnightchips.localhostssh
+Name: Local SSH
+Depends: firmware (>= 11.0), openssh
+Architecture: iphoneos-arm
+Description: Access localhost through SSH on iOS 11
+Maintainer: MidnightChips <midnightchips@gmail.com>
+Author: MidnightChips <midnightchips@gmail.com>
+Section: System
+Version: 0.0.2
+Tag: compatible::ios11
+Depiction: https://repo.chariz.io/package/com.midnightchips.localhostssh/
+SileoDepiction: https://repo.chariz.io/api/sileo/package/com.midnightchips.localhostssh/depiction.json
+Filename: debs/com.midnightchips.localhostssh_0.0.2_iphoneos-arm.deb
+SHA256: 5608c9ad8624ca3fd063f38175956e9fd7530b56adc0f42fa2ddb3d94ecca096
+MD5sum: 787f6549ee885463dca395609bdc13eb
+Size: 1414
+
+Package: com.atwiiks.squeaktime
+Name: SqueakTime
+Depends: firmware (>= 11.0), mobilesubstrate
+Architecture: iphoneos-arm
+Description: Apple Watch Clocks on your Lock Screen
+Maintainer: ATWiiks <wiikfndrew@gmail.com>
+Author: ATWiiks <wiikfndrew@gmail.com>
+Section: Tweaks
+Version: 1.0.0
+Installed-Size: 340
+Depiction: https://repo.chariz.io/package/com.atwiiks.squeaktime/
+SileoDepiction: https://repo.chariz.io/api/sileo/package/com.atwiiks.squeaktime/depiction.json
+Tag: cydia::commercial, compatible::ios11
+Filename: debs/chrpay/com.atwiiks.squeaktime_1.0.0_iphoneos-arm.deb
+SHA256: 293a8a7e4e303e938220c7520a8ef78cf80d4a6e2f5f52ba04efcd1dd1b99db7
+MD5sum: b564917affa58a19929b07c9cf49a175
+Size: 41580
+
+Package: com.cc.selectmoji
+Name: Selectmoji
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.2), firmware (>= 11.0)
+Architecture: iphoneos-arm
+Description: Better frequently used emojis.
+Maintainer: cole cabral <colecabral@me.com>
+Author: cole cabral <colecabral@me.com>
+Section: Tweaks
+Icon: file:///Library/PreferenceBundles/SelectmojiSettings.bundle/Emojis@2x.png
+Tag: cydia::commercial, compatible::ios11
+Depiction: https://repo.chariz.io/package/com.cc.selectmoji/
+SileoDepiction: https://repo.chariz.io/api/sileo/package/com.cc.selectmoji/depiction.json
+Version: 1.2-2
+Installed-Size: 280
+Filename: debs/chrpay/com.cc.selectmoji_1.2-2_iphoneos-arm.deb
+SHA256: 6762fd1336508c84a3d79a1da5f5c6f6513597936eb8289d43405caf1f0eb7ad
+MD5sum: 3583e8f28e26de819146a9a36cc19f29
+Size: 33424
+
+Package: com.laughingquoll.moonshine
+Name: Moonshine
+Depends: firmware (>> 11.0), mobilesubstrate, com.laughingquoll.prefixui, preferenceloader
+Architecture: iphoneos-arm
+Description: WatchOS inspired features for iOS
+Maintainer: LaughingQuoll <me@laughingquoll.net>
+Author: LaughingQuoll <me@laughingquoll.net>
+Section: Tweaks
+Tag: cydia::commercial, compatible::ios11
+Depiction: https://repo.chariz.io/package/com.laughingquoll.moonshine/
+SileoDepiction: https://repo.chariz.io/api/sileo/package/com.laughingquoll.moonshine/depiction.json
+Version: 1.0
+Installed-Size: 260
+Filename: debs/chrpay/com.laughingquoll.moonshine_1.0_iphoneos-arm.deb
+SHA256: 6da4f679ae00fc1c5627105791570a0f6237e16b75dc8844a479d2bd77e31f6d
+MD5sum: 095787c969794de79474c2040873c297
+Size: 51636
+
+Package: com.laughingquoll.moonshine
+Name: Moonshine
+Depends: firmware (>> 11.0), mobilesubstrate, com.laughingquoll.prefixui, preferenceloader, org.thebigboss.libcolorpicker
+Architecture: iphoneos-arm
+Description: WatchOS inspired features for iOS
+Maintainer: LaughingQuoll <me@laughingquoll.net>
+Author: LaughingQuoll <me@laughingquoll.net>
+Section: Tweaks
+Tag: cydia::commercial, compatible::ios11
+Depiction: https://repo.chariz.io/package/com.laughingquoll.moonshine/
+SileoDepiction: https://repo.chariz.io/api/sileo/package/com.laughingquoll.moonshine/depiction.json
+Icon: file:///Library/PreferenceBundles/MoonshinePrefs.bundle/Icon@2x.png
+Version: 1.0-2
+Installed-Size: 260
+Filename: debs/chrpay/com.laughingquoll.moonshine_1.0-2_iphoneos-arm.deb
+SHA256: 2993058781ec22741750243b36af4d5bebea444229b999a995abab9d6a37d2be
+MD5sum: 114a9a6774530b645254efeecc816da4
+Size: 51702
+
+Package: com.laughingquoll.prefixui
+Name: PrefixUI
+Architecture: iphoneos-arm
+Description: An awesome framework of some sort!!
+Maintainer: LaughingQuoll
+Author: LaughingQuoll
+Section: System
+Tag: role::developer
+Depiction: https://repo.chariz.io/package/com.laughingquoll.prefixui/
+SileoDepiction: https://repo.chariz.io/api/sileo/package/com.laughingquoll.prefixui/depiction.json
+Version: 0.6
+Installed-Size: 156
+Filename: debs/com.laughingquoll.prefixui_0.6_iphoneos-arm.deb
+SHA256: 094efeefc6c5c4ba874d574e07381108e5232da29862db8957d4dfe569bce647
+MD5sum: 419a63374a6f1bcc0736e54871cb3574
+Size: 26138
+
+Package: com.laughingquoll.moonshine
+Name: Moonshine
+Depends: firmware (>> 11.0), mobilesubstrate, com.laughingquoll.prefixui, preferenceloader, org.thebigboss.libcolorpicker
+Architecture: iphoneos-arm
+Description: WatchOS inspired features for iOS
+Maintainer: LaughingQuoll <me@laughingquoll.net>
+Author: LaughingQuoll <me@laughingquoll.net>
+Section: Tweaks
+Tag: cydia::commercial, compatible::ios11
+Depiction: https://repo.chariz.io/package/com.laughingquoll.moonshine/
+SileoDepiction: https://repo.chariz.io/api/sileo/package/com.laughingquoll.moonshine/depiction.json
+Icon: file:///Library/PreferenceBundles/MoonshinePrefs.bundle/Icon@2x.png
+Version: 1.1
+Installed-Size: 260
+Filename: debs/chrpay/com.laughingquoll.moonshine_1.1_iphoneos-arm.deb
+SHA256: c1f7509488647246c6998867becb79275e29cd5b6e487b5667e34552736a3b6a
+MD5sum: 8e743ecde3818c557e5f2a9a8d84eca9
+Size: 52028
+
+Package: dm.pl
+Name: Deb Maker (dm.pl)
+Depends: perl (>= 5.26), gzip, bzip2, xz-utils | lzma
+Architecture: all
+Description: not dpkg-deb, nor a plane, nor a bird.
+Maintainer: Theos Developers <support@hbang.ws>
+Author: Theos Developers <support@hbang.ws>
+Section: Packaging
+Tag: role::hacker
+Depiction: https://repo.chariz.io/package/dm.pl/
+SileoDepiction: https://repo.chariz.io/api/sileo/package/dm.pl/depiction.json
+Version: 1.1.5
+Installed-Size: 16
+Filename: debs/dm.pl_1.1.5_all.deb
+SHA256: 86e845a4e9150740bbb2d2f2f43019c855e86b2852819edc32e7767ebb4abe1d
+MD5sum: 26f23e73f60ad54d781737c4def1126e
+Size: 5372
+
+Package: com.golddavid.colorflow4
+Name: ColorFlow 4 (iOS 11)
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5.000), preferenceloader
+Conflicts: org.thebigboss.colorflow, com.golddavid.colorflow2, com.golddavid.colorflow3
+Replaces: org.thebigboss.colorflow, com.golddavid.colorflow2, com.golddavid.colorflow3
+Architecture: iphoneos-arm
+Description: one colorful boi
+Depiction: https://repo.chariz.io/package/com.golddavid.colorflow4/
+SileoDepiction: https://repo.chariz.io/api/sileo/package/com.golddavid.colorflow4/depiction.json
+Maintainer: David Goldman <help@golddavid.com>
+Author: David Goldman <help@golddavid.com>
+Section: Tweaks
+Tag: cydia::commercial, compatible::ios11
+Icon: file:///Library/PreferenceBundles/ColorFlow4Prefs.bundle/ColorFlow@3x.png
+Version: 1.0.2
+Installed-Size: 1396
+Filename: debs/chrpay/com.golddavid.colorflow4_1.0.2_iphoneos-arm.deb
+SHA256: 908266b42c8c64da424cefa8a070841badc37e7f57875ba4bf1e951891a9bb5a
+MD5sum: cba0dc186f66d9db7be3a6c979202bd0
+Size: 679818
+
+Package: com.muirey03.zenith
+Name: Zenith
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11)
+Architecture: iphoneos-arm
+Description: Organisation Done Right
+Maintainer: Muirey03 <tommy.muir@btinternet.com>
+Author: Muirey03 <tommy.muir@btinternet.com>
+Section: Tweaks
+Icon: file:///Library/PreferenceBundles/Zenith.bundle/Icon-Small@2x.png
+Tag: cydia::commercial, compatible::ios11
+Depiction: https://repo.chariz.io/package/com.muirey03.zenith/
+SileoDepiction: https://repo.chariz.io/api/sileo/package/com.muirey03.zenith/depiction.json
+Version: 1.0.0
+Installed-Size: 547
+Filename: debs/chrpay/com.muirey03.zenith_1.0.0_iphoneos-arm.deb
+SHA256: 7f98b306ca89368e9354677e5cb453acd7580498f985e09fa4a1660e8a9c7050
+MD5sum: df626a99f5c0334afa54152464a9588a
+Size: 217822
+
+Package: com.golddavid.colorflow4
+Name: ColorFlow 4 (iOS 11)
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5.000), preferenceloader
+Conflicts: org.thebigboss.colorflow, com.golddavid.colorflow2, com.golddavid.colorflow3
+Replaces: org.thebigboss.colorflow, com.golddavid.colorflow2, com.golddavid.colorflow3
+Architecture: iphoneos-arm
+Description: one colorful boi
+Depiction: https://repo.chariz.io/package/com.golddavid.colorflow4/
+SileoDepiction: https://repo.chariz.io/api/sileo/package/com.golddavid.colorflow4/depiction.json
+Maintainer: David Goldman <help@golddavid.com>
+Author: David Goldman <help@golddavid.com>
+Section: Tweaks
+Tag: cydia::commercial, compatible::ios11
+Icon: file:///Library/PreferenceBundles/ColorFlow4Prefs.bundle/ColorFlow@3x.png
+Version: 1.1.0
+Installed-Size: 1492
+Filename: debs/chrpay/com.golddavid.colorflow4_1.1.0_iphoneos-arm.deb
+SHA256: 51ef8cb2872f1d4fd8aaead79a11552f76787a3bccad1e56e79f21bfb506b026
+MD5sum: 626e0c6db5b19a220025f54feacb68fb
+Size: 713584
+
+Package: com.golddavid.colorflow4
+Name: ColorFlow 4 (iOS 11)
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5.000), preferenceloader
+Conflicts: org.thebigboss.colorflow, com.golddavid.colorflow2, com.golddavid.colorflow3
+Replaces: org.thebigboss.colorflow, com.golddavid.colorflow2, com.golddavid.colorflow3
+Architecture: iphoneos-arm
+Description: one colorful boi
+Depiction: https://repo.chariz.io/package/com.golddavid.colorflow4/
+SileoDepiction: https://repo.chariz.io/api/sileo/package/com.golddavid.colorflow4/depiction.json
+Maintainer: David Goldman <help@golddavid.com>
+Author: David Goldman <help@golddavid.com>
+Section: Tweaks
+Tag: cydia::commercial, compatible::ios11
+Icon: file:///Library/PreferenceBundles/ColorFlow4Prefs.bundle/ColorFlow@3x.png
+Version: 1.1.1
+Installed-Size: 1492
+Filename: debs/chrpay/com.golddavid.colorflow4_1.1.1_iphoneos-arm.deb
+SHA256: 190f760d7f1d8727d53e3b0e2fe354029697a650beaed81c78cf828c3966354e
+MD5sum: ef3fcffda5232b00c0ac4b96bb7d46b2
+Size: 712754
+
+Package: com.muirey03.zenith
+Name: Zenith
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11)
+Architecture: iphoneos-arm
+Description: Organisation Done Right
+Maintainer: Muirey03 <tommy.muir@btinternet.com>
+Author: Muirey03 <tommy.muir@btinternet.com>
+Section: Tweaks
+Icon: file:///Library/PreferenceBundles/Zenith.bundle/Icon-Small@2x.png
+Tag: cydia::commercial, compatible::ios11
+Depiction: https://repo.chariz.io/package/com.muirey03.zenith/
+SileoDepiction: https://repo.chariz.io/api/sileo/package/com.muirey03.zenith/depiction.json
+Version: 1.0.1
+Installed-Size: 567
+Filename: debs/chrpay/com.muirey03.zenith_1.0.1_iphoneos-arm.deb
+SHA256: d8176d81c7832f5776ff4ad586b7fdf50ed9d563730f147e11ddc3a6aba9ff99
+MD5sum: a8834429bba00bebed7d1575500a11e4
+Size: 222516
+
+Package: com.muirey03.zenith
+Name: Zenith
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11)
+Architecture: iphoneos-arm
+Description: Organisation Done Right
+Maintainer: Muirey03 <tommy.muir@btinternet.com>
+Author: Muirey03 <tommy.muir@btinternet.com>
+Section: Tweaks
+Icon: file:///Library/PreferenceBundles/Zenith.bundle/Icon-Small@2x.png
+Tag: cydia::commercial, compatible::ios11
+Depiction: https://repo.chariz.io/package/com.muirey03.zenith/
+SileoDepiction: https://repo.chariz.io/api/sileo/package/com.muirey03.zenith/depiction.json
+Version: 1.0.2
+Installed-Size: 567
+Filename: debs/chrpay/com.muirey03.zenith_1.0.2_iphoneos-arm.deb
+SHA256: 5216f53b8bc892f052ef4058ae21471bc1aa4f7831abe41548c0c6bc1b09b581
+MD5sum: 5b39da27b1c6d14c481884631bbc54db
+Size: 225960
+
+Package: com.muirey03.zenith
+Name: Zenith
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11)
+Architecture: iphoneos-arm
+Description: Organisation Done Right
+Maintainer: Muirey03 <tommy.muir@btinternet.com>
+Author: Muirey03 <tommy.muir@btinternet.com>
+Section: Tweaks
+Icon: file:///Library/PreferenceBundles/Zenith.bundle/Icon-Small@2x.png
+Tag: cydia::commercial, compatible::ios11
+Depiction: https://repo.chariz.io/package/com.muirey03.zenith/
+SileoDepiction: https://repo.chariz.io/api/sileo/package/com.muirey03.zenith/depiction.json
+Version: 1.0.3
+Installed-Size: 583
+Filename: debs/chrpay/com.muirey03.zenith_1.0.3_iphoneos-arm.deb
+SHA256: 97fb4cc9117ab959cb0e34684eb74d3efcb630e78b6ff42d56919ff5805122b3
+MD5sum: 523eef1ab2b0e9036c7da6ae88c7bdd1
+Size: 229520
+
+Package: com.muirey03.zenith
+Name: Zenith
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11)
+Architecture: iphoneos-arm
+Description: Organisation Done Right
+Maintainer: Muirey03 <tommy.muir@btinternet.com>
+Author: Muirey03 <tommy.muir@btinternet.com>
+Section: Tweaks
+Icon: file:///Library/PreferenceBundles/Zenith.bundle/Icon-Small@2x.png
+Tag: cydia::commercial, compatible::ios11
+Depiction: https://repo.chariz.io/package/com.muirey03.zenith/
+SileoDepiction: https://repo.chariz.io/api/sileo/package/com.muirey03.zenith/depiction.json
+Version: 1.0.4
+Installed-Size: 583
+Filename: debs/chrpay/com.muirey03.zenith_1.0.4_iphoneos-arm.deb
+SHA256: 32258753c13afdd15f856f3f182a251a762e45e2835d2929e66f8cd900e8700d
+MD5sum: d87f51ed0c9773da7c3fa237585097da
+Size: 229734
+
+Package: com.golddavid.colorflow4
+Name: ColorFlow 4 (iOS 11)
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5.000), preferenceloader
+Conflicts: org.thebigboss.colorflow, com.golddavid.colorflow2, com.golddavid.colorflow3
+Replaces: org.thebigboss.colorflow, com.golddavid.colorflow2, com.golddavid.colorflow3
+Architecture: iphoneos-arm
+Description: one colorful boi
+Maintainer: David Goldman <help@golddavid.com>
+Author: David Goldman <help@golddavid.com>
+Section: Tweaks
+Tag: cydia::commercial, compatible::ios11
+Icon: file:///Library/PreferenceBundles/ColorFlow4Prefs.bundle/ColorFlow@3x.png
+Depiction: https://repo.chariz.io/package/com.golddavid.colorflow4/
+SileoDepiction: https://repo.chariz.io/api/sileo/package/com.golddavid.colorflow4/depiction.json
+Version: 1.1.2
+Installed-Size: 1492
+Filename: debs/chrpay/com.golddavid.colorflow4_1.1.2_iphoneos-arm.deb
+SHA256: 0e530efb3a852b06451784d44554adcb5132fcc15e670ed87ebae65975bf9504
+MD5sum: 0092aaa9d4511bd305f357c0253eef61
+Size: 713364
+
+Package: com.midnightchips.harpy
+Name: Harpy
+Depends: firmware (>= 11.0), adv-cmds, bind, system-cmds, mdnsresponder, network-cmds, inetutils, libpcap, libssh2, perl, gawk
+Version: 1.0.1
+Architecture: iphoneos-arm
+Description: GUI frontend for ARP
+Maintainer: midnightchips <midnightchips@gmail.com>
+Author: midnightchips <midnightchips@gmail.com>
+Section: System
+Tag: cydia::commercial, compatible::ios11
+Depiction: https://repo.chariz.io/package/com.midnightchips.harpy/
+SileoDepiction: https://repo.chariz.io/api/sileo/package/com.midnightchips.harpy/depiction.json
+Filename: debs/chrpay/com.midnightchips.harpy_1.0.1_iphoneos-arm.deb
+SHA256: 0adc9b1287406b6e704c0de1583978c7fd9dfee140b49a1f796899e1a2da54b9
+MD5sum: fa770b57f98ac33956d80d6dbe065c4b
+Size: 3686674
+
+Package: com.muirey03.zenith
+Name: Zenith
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11)
+Architecture: iphoneos-arm
+Description: Organisation Done Right
+Maintainer: Muirey03 <tommy.muir@btinternet.com>
+Author: Muirey03 <tommy.muir@btinternet.com>
+Section: Tweaks
+Icon: file:///Library/PreferenceBundles/Zenith.bundle/Icon-Small@2x.png
+Tag: cydia::commercial, compatible::ios11
+Depiction: https://repo.chariz.io/package/com.muirey03.zenith/
+SileoDepiction: https://repo.chariz.io/api/sileo/package/com.muirey03.zenith/depiction.json
+Version: 1.0.5
+Installed-Size: 587
+Filename: debs/chrpay/com.muirey03.zenith_1.0.5_iphoneos-arm.deb
+SHA256: a022b86ff382233e3abd20b4c9100ce602671399e604b4d1b951389d2a8bf1b2
+MD5sum: 0a9374c5553ff5f3d3957bb90ba5f1ce
+Size: 230788
+
+Package: com.midnightchips.harpy
+Name: Harpy
+Depends: firmware (>= 11.0), adv-cmds, system-cmds, network-cmds, inetutils, gawk
+Version: 1.0.2
+Architecture: iphoneos-arm
+Description: Control your network with ease.
+Maintainer: midnightchips <midnightchips@gmail.com>
+Author: midnightchips <midnightchips@gmail.com>
+Section: System
+Tag: cydia::commercial, compatible::ios11
+Depiction: https://repo.chariz.io/package/com.midnightchips.harpy/
+SileoDepiction: https://repo.chariz.io/api/sileo/package/com.midnightchips.harpy/depiction.json
+Filename: debs/chrpay/com.midnightchips.harpy_1.0.2_iphoneos-arm.deb
+SHA256: c2cd921ed93456c72838dcf158f8a93fe90cc51bf1bd1a85ab71b503eb88d4e7
+MD5sum: a87b4e97f0492af3b6228aa1385b7ed4
+Size: 3530416
+
+Package: dm.pl
+Name: Deb Maker (dm.pl)
+Depends: perl (>= 5.26), gzip, bzip2, xz-utils | lzma
+Architecture: all
+Description: not dpkg-deb, nor a plane, nor a bird.
+Maintainer: Theos Developers <support@hbang.ws>
+Author: Theos Developers <support@hbang.ws>
+Section: Packaging
+Tag: role::hacker
+Depiction: https://repo.chariz.io/package/dm.pl/
+SileoDepiction: https://repo.chariz.io/api/sileo/package/dm.pl/depiction.json
+Version: 1.2
+Installed-Size: 16
+Filename: debs/dm.pl_1.2_all.deb
+SHA256: bb0a5d7604921abf1fe1e7bff3ba90d820c3f52ab3fe72c4f17d1bf3d1db1b8b
+MD5sum: 94b37a43de93e448230349e1c57451e0
+Size: 5420
+
+Package: com.midnightchips.harpy
+Name: Harpy
+Depends: firmware (>= 9.0), adv-cmds, system-cmds, network-cmds, inetutils, gawk
+Version: 1.0.3
+Architecture: iphoneos-arm
+Description: Control your network with ease.
+Maintainer: midnightchips <midnightchips@gmail.com>
+Author: midnightchips <midnightchips@gmail.com>
+Section: System
+Icon: file:///Applications/arpGUI.app/AppIcon29x29@2x.png
+Tag: cydia::commercial, compatible::ios9, compatible::ios10, compatible::ios11
+Depiction: https://repo.chariz.io/package/com.midnightchips.harpy/
+SileoDepiction: https://repo.chariz.io/api/sileo/package/com.midnightchips.harpy/depiction.json
+Filename: debs/chrpay/com.midnightchips.harpy_1.0.3_iphoneos-arm.deb
+SHA256: 2436a5aee1df484072e246d1d7e19ff4628b7ce7f78b81d646a2070d6b5bbbd9
+MD5sum: 0c84fadda22b967e1c3584766dcfd69e
+Size: 3686790
+
+Author: CoolStar & Jeremy Goulet <coolstarorganization@gmail.com>
+Maintainer: CoolStar <coolstarorganization@gmail.com>
+Name: Ventana
+Package: org.coolstar.ventana-modern
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
+Replaces: org.coolstar.ventana
+Conflicts: org.coolstar.ventana
+Provides: org.coolstar.ventana
+Section: Tweaks
+Version: 1.2.1
+Architecture: iphoneos-arm
+Description: modern lock screen inspired by Windows 10
+dev: coolstar
+Tag: cydia::commercial, purpose::extension, role::enduser, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11
+Icon: file:///Library/PreferenceBundles/MetroLockScreenSettings.bundle/icon-29@2x.png
+Depiction: https://repo.chariz.io/package/org.coolstar.ventana-modern/
+SileoDepiction: https://repo.chariz.io/api/sileo/package/org.coolstar.ventana-modern/depiction.json
+Filename: debs/chrpay/org.coolstar.ventana-modern_1.2.1_iphoneos-arm.deb
+SHA256: 829e70cc10343fcced3a5e8202f409567fe4128968137d4c29e9250cf7587bae
+MD5sum: f974463347d986470aba2eff7fbcf30d
+Size: 254154
+
+Author: CoolStar & Jeremy Goulet <coolstarorganization@gmail.com>
+Maintainer: CoolStar <coolstarorganization@gmail.com>
+Name: Ventana
+Package: org.coolstar.ventana-modern
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), ldid
+Replaces: org.coolstar.ventana
+Conflicts: org.coolstar.ventana
+Provides: org.coolstar.ventana
+Section: Tweaks
+Version: 1.2.1-2
+Architecture: iphoneos-arm
+Description: modern lock screen inspired by Windows 10
+dev: coolstar
+Tag: cydia::commercial, purpose::extension, role::enduser, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11
+Icon: file:///Library/PreferenceBundles/MetroLockScreenSettings.bundle/icon-29@2x.png
+Depiction: https://repo.chariz.io/package/org.coolstar.ventana-modern/
+SileoDepiction: https://repo.chariz.io/api/sileo/package/org.coolstar.ventana-modern/depiction.json
+Filename: debs/chrpay/org.coolstar.ventana-modern_1.2.1-2_iphoneos-arm.deb
+SHA256: bcf63d52b7f1088b80ac1575285ffb075f5cf8e81b9ee2501341c8c2b6622e94
+MD5sum: 69220972e3679e56bef3c245da40c3e1
+Size: 254164
+
+Package: com.golddavid.colorflow4
+Name: ColorFlow 4 (iOS 11)
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5.000), preferenceloader
+Conflicts: org.thebigboss.colorflow, com.golddavid.colorflow2, com.golddavid.colorflow3
+Replaces: org.thebigboss.colorflow, com.golddavid.colorflow2, com.golddavid.colorflow3
+Architecture: iphoneos-arm
+Description: one colorful boi
+Maintainer: David Goldman <help@golddavid.com>
+Author: David Goldman <help@golddavid.com>
+Section: Tweaks
+Tag: cydia::commercial, compatible::ios11
+Icon: file:///Library/PreferenceBundles/ColorFlow4Prefs.bundle/ColorFlow@3x.png
+Depiction: https://repo.chariz.io/package/com.golddavid.colorflow4/
+SileoDepiction: https://repo.chariz.io/api/sileo/package/com.golddavid.colorflow4/depiction.json
+Version: 1.1.3
+Installed-Size: 1492
+Filename: debs/chrpay/com.golddavid.colorflow4_1.1.3_iphoneos-arm.deb
+SHA256: 707ee9cfcd247527ca9f38183040fc80689d0c822ea57a92b7fb9d990e55f4c0
+MD5sum: dcef7544f31c6e57760604189eeaea41
+Size: 713216
+
+Package: com.cc.selectmoji
+Name: Selectmoji
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.2), firmware (>= 6.0)
+Architecture: iphoneos-arm
+Description: Better frequently used emojis.
+Maintainer: cole cabral <colecabral@me.com>
+Author: cole cabral <colecabral@me.com>
+Section: Tweaks
+Icon: file:///Library/PreferenceBundles/SelectmojiSettings.bundle/Emojis@2x.png
+Tag: cydia::commercial, compatible::ios11
+Depiction: https://repo.chariz.io/package/com.cc.selectmoji/
+Version: 1.2-3
+Installed-Size: 248
+SileoDepiction: https://repo.chariz.io/api/sileo/package/com.cc.selectmoji/depiction.json
+Filename: debs/chrpay/com.cc.selectmoji_1.2-3_iphoneos-arm.deb
+SHA256: 58a5650e475b2c1efd1b288464a565d662d5937e9a5c35adcbec39d1f51a4d34
+MD5sum: c159e9f56f1db065e151a7215b1480f3
+Size: 34282
+
+Package: com.cc.selectmoji
+Name: Selectmoji
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.2), firmware (>= 6.0)
+Architecture: iphoneos-arm
+Description: Better frequently used emojis.
+Maintainer: cole cabral <colecabral@me.com>
+Author: cole cabral <colecabral@me.com>
+Section: Tweaks
+Icon: file:///Library/PreferenceBundles/SelectmojiSettings.bundle/Emojis@2x.png
+Version: 1.2-4
+Installed-Size: 248
+Tag: cydia::commercial, compatible::ios6, compatible::ios7, compatible::ios8, compatible::ios9, compatible:ios10, compatible::ios11, compatible::ios12
+Depiction: https://repo.chariz.io/package/com.cc.selectmoji/
+SileoDepiction: https://repo.chariz.io/api/sileo/package/com.cc.selectmoji/depiction.json
+Filename: debs/chrpay/com.cc.selectmoji_1.2-4_iphoneos-arm.deb
+SHA256: 7a2b6036c909561b269052f08f5bed8a59b003a1bd6239d6727ef3a0bb8356a9
+MD5sum: 16cad153f439f23441b3d05bcb9e5a0f
+Size: 34474
+
+Package: com.golddavid.colorflow4
+Name: ColorFlow 4 (iOS 11 – 12)
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5.000), preferenceloader
+Conflicts: org.thebigboss.colorflow, com.golddavid.colorflow2, com.golddavid.colorflow3
+Replaces: org.thebigboss.colorflow, com.golddavid.colorflow2, com.golddavid.colorflow3
+Architecture: iphoneos-arm
+Description: one colorful boi
+Maintainer: David Goldman <help@golddavid.com>
+Author: David Goldman <help@golddavid.com>
+Section: Tweaks
+Tag: cydia::commercial, compatible::ios11, compatible::ios12
+Icon: file:///Library/PreferenceBundles/ColorFlow4Prefs.bundle/ColorFlow@3x.png
+Version: 1.2.0
+Installed-Size: 1492
+Depiction: https://repo.chariz.io/package/com.golddavid.colorflow4/
+SileoDepiction: https://repo.chariz.io/api/sileo/package/com.golddavid.colorflow4/depiction.json
+Filename: debs/chrpay/com.golddavid.colorflow4_1.2.0_iphoneos-arm.deb
+SHA256: 79f09597701e407a15aafbf9ae0ccd0e0ef6594845305ea53d18895b2fbb492a
+MD5sum: f48dd112d371431912f2eaf70d82e850
+Size: 717288
+
+Package: com.golddavid.colorflow4
+Name: ColorFlow 4 (iOS 11 – 12)
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5.000), preferenceloader
+Conflicts: org.thebigboss.colorflow, com.golddavid.colorflow2, com.golddavid.colorflow3
+Replaces: org.thebigboss.colorflow, com.golddavid.colorflow2, com.golddavid.colorflow3
+Architecture: iphoneos-arm
+Description: one colorful boi
+Maintainer: David Goldman <help@golddavid.com>
+Author: David Goldman <help@golddavid.com>
+Section: Tweaks
+Tag: cydia::commercial, compatible::ios11, compatible::ios12
+Icon: file:///Library/PreferenceBundles/ColorFlow4Prefs.bundle/ColorFlow@3x.png
+Version: 1.2.1
+Installed-Size: 1492
+Depiction: https://repo.chariz.io/package/com.golddavid.colorflow4/
+SileoDepiction: https://repo.chariz.io/api/sileo/package/com.golddavid.colorflow4/depiction.json
+Filename: debs/chrpay/com.golddavid.colorflow4_1.2.1_iphoneos-arm.deb
+SHA256: e1394d06b32b1ace2702600067998a1539b03962be2ce4685a57f17cc9e89181
+MD5sum: fbcb8af4b192763fc1471c637a5bd372
+Size: 717326
+
+Package: com.leftyfl1p.carplay
+Name: CarBridge
+Depends: firmware (>= 10.0), mobilesubstrate, applist, com.rpetrich.rocketbootstrap (>= 1.0.7~beta1), preferenceloader, ch.ringwald.hidsupport, ws.hbang.common
+Architecture: iphoneos-arm
+Description: Open any app in CarPlay!
+Depiction: https://repo.chariz.io/package/com.leftyfl1p.carplay/
+Maintainer: leftyfl1p <carbridgetweak@gmail.com>
+Author: leftyfl1p <carbridgetweak@gmail.com>
+Section: Tweaks
+Tag: cydia::commercial, compatible::ios10, compatible::ios11, compatible::ios12
+Conflicts: com.eason.carplay, com.eason.carplay.ios11
+Version: 1.0.3
+Icon: file:///Library/PreferenceBundles/CarBridgePreferences.bundle/CarBridge@2x.png
+Installed-Size: 4768
+SileoDepiction: https://repo.chariz.io/api/sileo/package/com.leftyfl1p.carplay/depiction.json
+Filename: debs/chrpay/com.leftyfl1p.carplay_1.0.3_iphoneos-arm.deb
+SHA256: aad1a63e11bbeeab46b0ec8366ed2502fe9976b2ac10ec1123fd87bb35c32e8a
+MD5sum: 42b7c6b3c981e69a7c40e3c7c2b020d5
+Size: 3184236
+
+Package: com.golddavid.colorflow4
+Name: ColorFlow 4 (iOS 11 – 12)
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5.000), preferenceloader
+Conflicts: org.thebigboss.colorflow, com.golddavid.colorflow2, com.golddavid.colorflow3
+Replaces: org.thebigboss.colorflow, com.golddavid.colorflow2, com.golddavid.colorflow3
+Architecture: iphoneos-arm
+Description: one colorful boi
+Maintainer: David Goldman <help@golddavid.com>
+Author: David Goldman <help@golddavid.com>
+Section: Tweaks
+Tag: cydia::commercial, compatible::ios11, compatible::ios12
+Icon: file:///Library/PreferenceBundles/ColorFlow4Prefs.bundle/ColorFlow@3x.png
+Version: 1.2.2
+Installed-Size: 1492
+Depiction: https://repo.chariz.io/package/com.golddavid.colorflow4/
+SileoDepiction: https://repo.chariz.io/api/sileo/package/com.golddavid.colorflow4/depiction.json
+Filename: debs/chrpay/com.golddavid.colorflow4_1.2.2_iphoneos-arm.deb
+SHA256: 10c7a37ea03c170f90249ffe88591ef4ea24db95840414e15defc271905e2a02
+MD5sum: ca3b75c06c619f8c51129f7d35368d5c
+Size: 718578
+
+Package: com.leftyfl1p.carplay
+Name: CarBridge
+Depends: firmware (>= 10.0), mobilesubstrate, applist, com.rpetrich.rocketbootstrap (>= 1.0.7~beta1), preferenceloader, ch.ringwald.hidsupport, ws.hbang.common
+Architecture: iphoneos-arm
+Description: Open any app in CarPlay!
+Depiction: https://repo.chariz.io/package/com.leftyfl1p.carplay/
+Maintainer: leftyfl1p <carbridgetweak@gmail.com>
+Author: leftyfl1p <carbridgetweak@gmail.com>
+Section: Tweaks
+Tag: cydia::commercial, compatible::ios10, compatible::ios11, compatible::ios12
+Conflicts: com.eason.carplay, com.eason.carplay.ios11
+Version: 1.0.4
+Installed-Size: 4768
+Icon: https://repo.chariz.io/package/com.leftyfl1p.carplay/icon@3x.png
+SileoDepiction: https://repo.chariz.io/api/sileo/package/com.leftyfl1p.carplay/depiction.json
+Filename: debs/chrpay/com.leftyfl1p.carplay_1.0.4_iphoneos-arm.deb
+SHA256: d8d59656931375022244bdc7c3e56173a2d76924b7e8077b0950a36ccfa21034
+MD5sum: da0758ba0b38192da78da338b704d1a4
+Size: 3183360
+
+Package: com.muirey03.zenith
+Name: Zenith
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11)
+Architecture: iphoneos-arm
+Description: Organisation Done Right
+Maintainer: Muirey03 <tommy.muir@btinternet.com>
+Author: Muirey03 <tommy.muir@btinternet.com>
+Section: Tweaks
+Tag: cydia::commercial, compatible::ios11
+Depiction: https://repo.chariz.io/package/com.muirey03.zenith/
+Icon: https://repo.chariz.io/package/com.muirey03.zenith/icon@3x.png
+Version: 1.0.6
+Installed-Size: 603
+SileoDepiction: https://repo.chariz.io/api/sileo/package/com.muirey03.zenith/depiction.json
+Filename: debs/chrpay/com.muirey03.zenith_1.0.6_iphoneos-arm.deb
+SHA256: d85f33797ffa42305e2f36cb320a733591eb194f494a80c3d729d7fa7e05054c
+MD5sum: fe8bb3a0fc4d7f34afdb3c4294498c3d
+Size: 232632
+
+Package: com.muirey03.zenith
+Name: Zenith
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11)
+Architecture: iphoneos-arm
+Description: Organisation Done Right
+Maintainer: Muirey03 <tommy.muir@btinternet.com>
+Author: Muirey03 <tommy.muir@btinternet.com>
+Section: Tweaks
+Tag: cydia::commercial, compatible::ios11, compatible::ios12
+Depiction: https://repo.chariz.io/package/com.muirey03.zenith/
+Icon: https://repo.chariz.io/package/com.muirey03.zenith/icon@3x.png
+Version: 1.0.7
+Installed-Size: 607
+SileoDepiction: https://repo.chariz.io/api/sileo/package/com.muirey03.zenith/depiction.json
+Filename: debs/chrpay/com.muirey03.zenith_1.0.7_iphoneos-arm.deb
+SHA256: a666a1b49fc4ccc6eb738817be333c91d41fffb4a6e34723f5d397f187953f93
+MD5sum: 017c658140fc888702e74742fd6a3744
+Size: 240102
+
+Package: com.muirey03.zenith
+Name: Zenith
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11)
+Architecture: iphoneos-arm
+Description: Organisation Done Right
+Maintainer: Muirey03 <tommy.muir@btinternet.com>
+Author: Muirey03 <tommy.muir@btinternet.com>
+Section: Tweaks
+Tag: cydia::commercial, compatible::ios11, compatible::ios12
+Depiction: https://repo.chariz.io/package/com.muirey03.zenith/
+Icon: https://repo.chariz.io/package/com.muirey03.zenith/icon@3x.png
+Version: 1.0.7-2
+Installed-Size: 607
+SileoDepiction: https://repo.chariz.io/api/sileo/package/com.muirey03.zenith/depiction.json
+Filename: debs/chrpay/com.muirey03.zenith_1.0.7-2_iphoneos-arm.deb
+SHA256: 1136f595b1f377980d40f7b2eecb51d0114d8c216c050b33dd699638d1cb5b7d
+MD5sum: 3460649cbbd11b0bfb22fe958bc72f4c
+Size: 239876
+
+Package: com.nito.ncontrol
+Name: nControl
+Version: 1.0-1
+Architecture: iphoneos-arm
+Depends: firmware (>= 7.0)
+Description: Use Sony Dual Shock 4 / Slim, XBox One, Evo VR Pro and Nintendo Switch Joy-Con controllers in any application that supports MFI controllers. Including emulators like Provenance.
+Maintainer: Kevin Bradley <kevin@nito.tv>
+Author: Kevin Bradley & Luca Todesco <kevin@nito.tv>
+Section: Tweaks
+Tag: cydia::commercial, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
+Depiction: https://repo.chariz.io/package/com.nito.ncontrol/
+Icon: https://repo.chariz.io/package/com.nito.ncontrol/icon@3x.png
+SileoDepiction: https://repo.chariz.io/api/sileo/package/com.nito.ncontrol/depiction.json
+Filename: debs/chrpay/com.nito.ncontrol_1.0-1_iphoneos-arm.deb
+SHA256: e6e46e7a9ac416962a7397c45f31d2f6993cd36921ef3dd82c324dd3fd3f5ab3
+MD5sum: 8056c98486a457d212ddac1436fc2d27
+Size: 290806
+
+Package: com.muirey03.zenith
+Name: Zenith
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), com.chpwn.iconsupport
+Architecture: iphoneos-arm
+Description: Organisation Done Right
+Maintainer: Muirey03 <tommy.muir@btinternet.com>
+Author: Muirey03 <tommy.muir@btinternet.com>
+Section: Tweaks
+Tag: cydia::commercial, compatible::ios11, compatible::ios12
+Depiction: https://repo.chariz.io/package/com.muirey03.zenith/
+Icon: https://repo.chariz.io/package/com.muirey03.zenith/icon@3x.png
+Version: 1.0.8-1
+Installed-Size: 623
+SileoDepiction: https://repo.chariz.io/api/sileo/package/com.muirey03.zenith/depiction.json
+Filename: debs/chrpay/com.muirey03.zenith_1.0.8-1_iphoneos-arm.deb
+SHA256: 8ab73ff12f77789d1e7761e9a4c1e5f5213d8cb4124c915f66e7b5a3af7d7554
+MD5sum: 872eeccb8ed10cf9dd202414ab4747d5
+Size: 240920
+
+Package: ws.hbang.newterm2
+Name: NewTerm 2 (iOS 7 – 12)
+Depends: firmware (>= 7.0), com.modmyi.libswift4 (>= 4.2.1-1), ws.hbang.common (>= 1.11.2), bash, coreutils, ncurses, system-cmds, com.linusyang.localeutf8
+Conflicts: ws.hbang.newterm
+Replaces: ws.hbang.newterm
+Architecture: iphoneos-arm
+Description: A powerful terminal app for iOS
+Maintainer: HASHBANG Productions <support@hbang.ws>
+Author: HASHBANG Productions <support@hbang.ws>
+Section: Terminal Support
+Icon: https://repo.chariz.io/package/ws.hbang.newterm2/icon@3x.png
+Depiction: https://repo.chariz.io/package/ws.hbang.newterm2/
+Support: https://hbang.ws/support/
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
+dev: hbang
+Version: 2.1
+Installed-Size: 2200
+SileoDepiction: https://repo.chariz.io/api/sileo/package/ws.hbang.newterm2/depiction.json
+Filename: debs/chrpay/ws.hbang.newterm2_2.1_iphoneos-arm.deb
+SHA256: f940d23d853fb2b4c7fdb47731d84d709d033b538c6013f8e963e46fa75a2586
+MD5sum: 05e23fb7e8d8762853eeb9c7f3c1b5b8
+Size: 746092
+
+Package: ws.hbang.typestatus2
+Name: TypeStatus 2 (iOS 7 – 12)
+Depends: firmware (>= 7.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), com.rpetrich.rocketbootstrap (>> 1.0.6)
+Recommends: firmware (>= 9.0) | libstatusbar (>= 1:0.9.9.0-1), firmware (<< 9.1) | org.thebigboss.libstatus9 (>= 1:0.0.1.5-0)
+Conflicts: ws.hbang.typestatus
+Replaces: ws.hbang.typestatus
+Breaks: ws.hbang.typestatusplus (<< 1.5)
+Architecture: iphoneos-arm
+Description: iMessage typing/read indicators in status bar
+Maintainer: HASHBANG Productions <support@hbang.ws>
+Author: HASHBANG Productions <support@hbang.ws>
+Section: Messaging
+Icon: https://repo.chariz.io/package/ws.hbang.typestatus2/icon@3x.png
+Depiction: https://repo.chariz.io/package/ws.hbang.typestatus2/
+Support: https://hashbang.productions/support/
+Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
+Version: 2.4
+Installed-Size: 1856
+SileoDepiction: https://repo.chariz.io/api/sileo/package/ws.hbang.typestatus2/depiction.json
+Filename: debs/chrpay/ws.hbang.typestatus2_2.4_iphoneos-arm.deb
+SHA256: 1916bf78a541100934cacaa49a726b95dc0328430d6f339bde9ff1274a228540
+MD5sum: 01cf2553466c12adc0494e08bbf16e0c
+Size: 148862
+
+Package: com.nito.ncontrol
+Name: nControl
+Version: 1.1-20
+Architecture: iphoneos-arm
+Depends: firmware (>= 7.0)
+Description: Use Sony Dual Shock 4 / Slim, XBox One, Evo VR Pro, 8bitdo *30, iPega I9500 and Nintendo Switch Joy-Con/Pro controllers in any application that suppports MFI controllers. Including emulators like Provenance.
+Maintainer: Kevin Bradley <kevin@nito.tv>
+Author: Kevin Bradley & Luca Todesco <kevin@nito.tv>
+Section: Tweaks
+Tag: cydia::commercial, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
+Depiction: https://repo.chariz.io/package/com.nito.ncontrol/
+Icon: https://repo.chariz.io/package/com.nito.ncontrol/icon@3x.png
+SileoDepiction: https://repo.chariz.io/api/sileo/package/com.nito.ncontrol/depiction.json
+Filename: debs/chrpay/com.nito.ncontrol_1.1-20_iphoneos-arm.deb
+SHA256: 4f4ae2556a9ac86001d136f5afd25525ba7a53ea2a1fe5f64f4d05b0e9bafdc6
+MD5sum: c2121ef5e62bedfbcce5d843cb3c5de8
+Size: 288928
+
+Package: com.leftyfl1p.carplay
+Name: CarBridge
+Depends: firmware (>= 10.0), mobilesubstrate, applist, com.rpetrich.rocketbootstrap (>> 1.0.6), preferenceloader, ch.ringwald.hidsupport, ws.hbang.common
+Architecture: iphoneos-arm
+Description: Open any app in CarPlay!
+Depiction: https://repo.chariz.io/package/com.leftyfl1p.carplay/
+Maintainer: leftyfl1p <carbridgetweak@gmail.com>
+Author: leftyfl1p <carbridgetweak@gmail.com>
+Section: Tweaks
+Tag: cydia::commercial, compatible::ios10, compatible::ios11, compatible::ios12
+Conflicts: com.eason.carplay, com.eason.carplay.ios11
+Version: 1.0.5
+Installed-Size: 4768
+Icon: https://repo.chariz.io/package/com.leftyfl1p.carplay/icon@3x.png
+SileoDepiction: https://repo.chariz.io/api/sileo/package/com.leftyfl1p.carplay/depiction.json
+Filename: debs/chrpay/com.leftyfl1p.carplay_1.0.5_iphoneos-arm.deb
+SHA256: df01c23a15fbef02002747d292eb1c987ee86d334227f0d3c4bc9fb018e691c7
+MD5sum: 82716bff5e7b2af32f1f417f2aaa9952
+Size: 3185172
+
+Package: com.nito.ncontrol
+Name: nControl
+Version: 1.2.0-1
+Architecture: iphoneos-arm
+Description: Use Sony Dual Shock 4 / Slim, XBox One, Evo VR Pro, 8bitdo *30, iPega I9500 and Nintendo Switch Joy-Con/Pro controllers in any application that supports MFI controllers. Including emulators like Provenance.
+Maintainer: Kevin Bradley <kevin@nito.tv>
+Author: Kevin Bradley & Luca Todesco <kevin@nito.tv>
+Section: Tweaks
+Tag: cydia::commercial, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
+Depiction: https://repo.chariz.io/package/com.nito.ncontrol/
+Icon: https://repo.chariz.io/package/com.nito.ncontrol/icon@3x.png
+SileoDepiction: https://repo.chariz.io/api/sileo/package/com.nito.ncontrol/depiction.json
+Filename: debs/chrpay/com.nito.ncontrol_1.2.0-1_iphoneos-arm.deb
+SHA256: d3b2e503f150263a00dde82e0bce29173b6ab917996ebe4e9f6c57dc3399a8a4
+MD5sum: d3176f4ca21b1b5b3b0f97509ef38c08
+Size: 289458
+
+Package: com.nito.ncontrol
+Name: nControl
+Version: 1.2.0-11
+Architecture: iphoneos-arm
+Description: Use Sony Dual Shock 4 / Slim, XBox One, Evo VR Pro, 8bitdo *30, iPega I9500 and Nintendo Switch Joy-Con/Pro controllers in any application that supports MFI controllers. Including emulators like Provenance.
+Maintainer: Kevin Bradley <kevin@nito.tv>
+Author: Kevin Bradley & Luca Todesco <kevin@nito.tv>
+Section: Tweaks
+Tag: cydia::commercial, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
+Depiction: https://repo.chariz.io/package/com.nito.ncontrol/
+Icon: https://repo.chariz.io/package/com.nito.ncontrol/icon@3x.png
+SileoDepiction: https://repo.chariz.io/api/sileo/package/com.nito.ncontrol/depiction.json
+Filename: debs/chrpay/com.nito.ncontrol_1.2.0-11_iphoneos-arm.deb
+SHA256: 01e20cd0c24aa9f5bcf5fe0fd76326b1171534f30a6826b45a1584941b0cd370
+MD5sum: 7cdd2b6aab2d95f0618b0f703f94ead6
+Size: 291360
+
+Package: com.laughingquoll.moonshine
+Name: Moonshine
+Depends: firmware (>> 11.0), mobilesubstrate, com.laughingquoll.prefixui, preferenceloader, org.thebigboss.libcolorpicker
+Architecture: iphoneos-arm
+Description: WatchOS inspired features for iOS
+Maintainer: LaughingQuoll <me@laughingquoll.net>
+Author: LaughingQuoll <me@laughingquoll.net>
+Section: Tweaks
+Tag: cydia::commercial, compatible::ios11, compatible::ios12
+Depiction: https://repo.chariz.io/package/com.laughingquoll.moonshine/
+Icon: https://repo.chariz.io/package/com.laughingquoll.moonshine/icon@3x.png
+Version: 1.2
+Installed-Size: 264
+SileoDepiction: https://repo.chariz.io/api/sileo/package/com.laughingquoll.moonshine/depiction.json
+Filename: debs/chrpay/com.laughingquoll.moonshine_1.2_iphoneos-arm.deb
+SHA256: 3836e88685a124064e0d382de0982dab4240bdb8f479110bdd1dda3c92b3c4b8
+MD5sum: 9d6f631f9b094d0f795c670a1116c4cb
+Size: 52750
+
+Package: ws.hbang.common
+Name: Cephei
+Depends: mobilesubstrate, preferenceloader, jp.ashikase.techsupport, com.rpetrich.rocketbootstrap
+Architecture: iphoneos-arm
+Description: Support library for tweaks
+Maintainer: HASHBANG Productions <support@hbang.ws>
+Author: HASHBANG Productions <support@hbang.ws>
+Section: Development
+Depiction: https://repo.chariz.io/package/ws.hbang.common/
+Support: https://hashbang.productions/support/
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: purpose::extension, compatible::ios5, compatible::ios6, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
+dev: hbang
+Version: 1.13
+Installed-Size: 2248
+Depiction: https://repo.chariz.io/package/ws.hbang.common/
+SileoDepiction: https://repo.chariz.io/api/sileo/package/ws.hbang.common/depiction.json
+Icon: https://repo.chariz.io/package/ws.hbang.common/icon@3x.png
+Filename: debs/ws.hbang.common_1.13_iphoneos-arm.deb
+SHA256: 82121cf5afa4725a4fa4822353e776236e1eb82ed924cf46ce33c2db9a332966
+MD5sum: 2b0230ddb47fa80304c05b6e19748e34
+Size: 144470
+
+Package: ws.hbang.common
+Name: Cephei
+Depends: mobilesubstrate, preferenceloader, firmware (<< 12.0) | preferenceloader (>> 2.2.3), jp.ashikase.techsupport, com.rpetrich.rocketbootstrap
+Architecture: iphoneos-arm
+Description: Support library for tweaks
+Maintainer: HASHBANG Productions <support@hbang.ws>
+Author: HASHBANG Productions <support@hbang.ws>
+Section: Development
+Icon: file:///Library/PreferenceBundles/Cephei.bundle/icon@2x.png
+Depiction: https://repo.chariz.io/package/ws.hbang.common/
+Support: https://hashbang.productions/support/
+Tag: purpose::extension, compatible::ios5, compatible::ios6, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
+dev: hbang
+Version: 1.13.1
+Installed-Size: 2696
+SileoDepiction: https://repo.chariz.io/api/sileo/package/ws.hbang.common/depiction.json
+Icon: https://repo.chariz.io/package/ws.hbang.common/icon@3x.png
+Filename: debs/ws.hbang.common_1.13.1_iphoneos-arm.deb
+SHA256: d4dd3f86ec61028b5646818a810fca354aa2cd388d9cc5ca3ccd864720cb2bba
+MD5sum: 239afc0fe229f1af7aed55662e60c76a
+Size: 170138
+
+Package: ws.hbang.common
+Name: Cephei
+Depends: mobilesubstrate, preferenceloader, firmware (<< 12.0) | preferenceloader (>> 2.2.3), jp.ashikase.techsupport, com.rpetrich.rocketbootstrap
+Architecture: iphoneos-arm
+Description: Support library for tweaks
+Maintainer: HASHBANG Productions <support@hbang.ws>
+Author: HASHBANG Productions <support@hbang.ws>
+Section: Development
+Icon: file:///Library/PreferenceBundles/Cephei.bundle/icon@2x.png
+Depiction: https://repo.chariz.io/package/ws.hbang.common/
+Support: https://hashbang.productions/support/
+Tag: purpose::extension, compatible::ios5, compatible::ios6, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
+dev: hbang
+Version: 1.13.1-2
+Installed-Size: 2696
+SileoDepiction: https://repo.chariz.io/api/sileo/package/ws.hbang.common/depiction.json
+Icon: https://repo.chariz.io/package/ws.hbang.common/icon@3x.png
+Filename: debs/ws.hbang.common_1.13.1-2_iphoneos-arm.deb
+SHA256: e8046c17a5f156f2b10b4f82b9d794c3a3a7ff25b0db8abf1c12002b4a9afbd6
+MD5sum: 8b4447792ec4e8c7f56e95e95ca48739
+Size: 174522
+
+Package: com.golddavid.colorflow4
+Name: ColorFlow 4 (iOS 11 – 12)
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5.000), preferenceloader
+Conflicts: org.thebigboss.colorflow, com.golddavid.colorflow2, com.golddavid.colorflow3
+Replaces: org.thebigboss.colorflow, com.golddavid.colorflow2, com.golddavid.colorflow3
+Architecture: iphoneos-arm
+Description: one colorful boi
+Maintainer: David Goldman <help@golddavid.com>
+Author: David Goldman <help@golddavid.com>
+Section: Tweaks
+Tag: cydia::commercial, compatible::ios11, compatible::ios12
+Depiction: https://repo.chariz.io/package/com.golddavid.colorflow4/
+Version: 1.2.3
+Installed-Size: 1892
+SileoDepiction: https://repo.chariz.io/api/sileo/package/com.golddavid.colorflow4/depiction.json
+Icon: https://repo.chariz.io/package/com.golddavid.colorflow4/icon@3x.png
+Filename: debs/chrpay/com.golddavid.colorflow4_1.2.3_iphoneos-arm.deb
+SHA256: 25b65860a635a54ef36a29f29c476ac230f4113979b05bf52cd48b3611f878ec
+MD5sum: 11e6c6b19688d095c1dd9601b252ea01
+Size: 770094
+
+Package: com.laughingquoll.moonshine
+Name: Moonshine
+Depends: firmware (>= 11.0), mobilesubstrate, com.laughingquoll.prefixui, preferenceloader, org.thebigboss.libcolorpicker
+Architecture: iphoneos-arm
+Description: WatchOS inspired features for iOS
+Maintainer: LaughingQuoll <me@laughingquoll.net>
+Author: LaughingQuoll <me@laughingquoll.net>
+Section: Tweaks
+Tag: cydia::commercial, compatible::ios11, compatible::ios12
+Depiction: https://repo.chariz.io/package/com.laughingquoll.moonshine/
+Icon: https://repo.chariz.io/package/com.laughingquoll.moonshine/icon@3x.png
+Version: 1.3.1
+Installed-Size: 452
+SileoDepiction: https://repo.chariz.io/api/sileo/package/com.laughingquoll.moonshine/depiction.json
+Filename: debs/chrpay/com.laughingquoll.moonshine_1.3.1_iphoneos-arm.deb
+SHA256: 95b424c658823255ad0c970afc40761b4dd214a2690bee1c876c444078b7b666
+MD5sum: 231aed7cc0e9a5a73d7773172751744f
+Size: 66196
+
+Package: com.spark.snowboard
+Name: SnowBoard
+Depends: mobilesubstrate, jp.ashikase.techsupport, preferenceloader
+Architecture: iphoneos-arm
+Description: Snowboard theming engine
+Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Maintainer: Spark <info@sparkservers.co.uk>
+Author: Spark & Dennis D. Bednarz <info@sparkservers.co.uk>
+Section: Tweaks
+Version: 1.1.7
+Installed-Size: 1652
+Tag: compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
+Depiction: https://repo.chariz.io/package/com.spark.snowboard/
+SileoDepiction: https://repo.chariz.io/api/sileo/package/com.spark.snowboard/depiction.json
+Icon: https://repo.chariz.io/package/com.spark.snowboard/icon@3x.png
+Filename: debs/chrpay/com.spark.snowboard_1.1.7_iphoneos-arm.deb
+SHA256: eedd421f56a6e6d3670107b8a68ead333844e49337ccdb7247b3f85c4eaf2a79
+MD5sum: e6c62c15fa51c33a2c9b8a94ec71a108
+Size: 446594
+
+Author: CoolStar & Jeremy Goulet <coolstarorganization@gmail.com>
+Maintainer: CoolStar <coolstarorganization@gmail.com>
+Name: Ventana
+Package: org.coolstar.ventana-modern
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), ldid
+Replaces: org.coolstar.ventana
+Conflicts: org.coolstar.ventana
+Provides: org.coolstar.ventana
+Section: Tweaks
+Version: 1.4
+Architecture: iphoneos-arm
+Description: modern lock screen inspired by Windows 10
+dev: coolstar
+Tag: cydia::commercial, purpose::extension, role::enduser, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
+Depiction: https://repo.chariz.io/package/org.coolstar.ventana-modern/
+SileoDepiction: https://repo.chariz.io/api/sileo/package/org.coolstar.ventana-modern/depiction.json
+Icon: https://repo.chariz.io/package/org.coolstar.ventana-modern/icon@3x.png
+Filename: debs/chrpay/org.coolstar.ventana-modern_1.4_iphoneos-arm.deb
+SHA256: 037b4f7e6f89cd9d9b2ebd6295ffbd5670d1e48fcd525f1b876b62553330ac0f
+MD5sum: 3acab23075722ec57f09f62193857aa8
+Size: 271798
+
+Package: com.cc.selectmoji
+Name: Selectmoji (Chariz)
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.2), firmware (>= 10.0)
+Architecture: iphoneos-arm
+Description: Better frequently used emojis.
+Maintainer: cole cabral <colecabral@me.com>
+Author: cole cabral <colecabral@me.com>
+Section: Tweaks
+Version: 1.2-5
+Installed-Size: 488
+Tag: cydia::commercial, compatible::ios10, compatible::ios11, compatible::ios12
+Depiction: https://repo.chariz.io/package/com.cc.selectmoji/
+SileoDepiction: https://repo.chariz.io/api/sileo/package/com.cc.selectmoji/depiction.json
+Icon: https://repo.chariz.io/package/com.cc.selectmoji/icon@3x.png
+Filename: debs/chrpay/com.cc.selectmoji_1.2-5_iphoneos-arm.deb
+SHA256: d6ecce42141913448b76cffca93aca55a7af917afb1da66bfc2b04f9ccf1e20b
+MD5sum: a8699b1378190945ce293ca09b7238ea
+Size: 37270
+
+Package: com.cc.selectmoji
+Name: Selectmoji (iOS 10 – 12)
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.2), firmware (>= 10.0)
+Architecture: iphoneos-arm
+Description: Better frequently used emojis.
+Maintainer: cole cabral
+Author: cole cabral
+Section: Tweaks
+Version: 1.2-6
+Installed-Size: 488
+Tag: cydia::commercial, compatible::ios10, compatible::ios11, compatible::ios12
+Depiction: https://repo.chariz.io/package/com.cc.selectmoji/
+SileoDepiction: https://repo.chariz.io/api/sileo/package/com.cc.selectmoji/depiction.json
+Icon: https://repo.chariz.io/package/com.cc.selectmoji/icon@3x.png
+Filename: debs/chrpay/com.cc.selectmoji_1.2-6_iphoneos-arm.deb
+SHA256: a3a4b525d139e017c78f27b218c19bc1599446ee3bac4dcdcf7b627f99425ef0
+MD5sum: 4b8737a12023095a73d6fa13d9d57dea
+Size: 37240
+
+Package: com.leftyfl1p.carplay
+Name: CarBridge
+Depends: firmware (>= 10.0), mobilesubstrate, applist, com.rpetrich.rocketbootstrap (>> 1.0.6) | mobilesubstrate (>= 99.0), preferenceloader, ws.hbang.common
+Architecture: iphoneos-arm
+Description: Open any app in CarPlay!
+Maintainer: leftyfl1p <carbridgetweak@gmail.com>
+Author: leftyfl1p <carbridgetweak@gmail.com>
+Section: Tweaks
+Tag: cydia::commercial, compatible::ios10, compatible::ios11, compatible::ios12
+Conflicts: com.eason.carplay, com.eason.carplay.ios11, ch.ringwald.hidsupport, com.modmyi.boxy3
+Version: 1.0.6
+Installed-Size: 5152
+Depiction: https://repo.chariz.io/package/com.leftyfl1p.carplay/
+SileoDepiction: https://repo.chariz.io/api/sileo/package/com.leftyfl1p.carplay/depiction.json
+Icon: https://repo.chariz.io/package/com.leftyfl1p.carplay/icon@3x.png
+Filename: debs/chrpay/com.leftyfl1p.carplay_1.0.6_iphoneos-arm.deb
+SHA256: 3237c4880604f09e30aa20e18cac2fdd5207f0a3a248f5f97faff692d875f809
+MD5sum: 23d96cf10bbd8b8145e04abbf923f62e
+Size: 3207734
+
+Package: com.muirey03.zenith
+Name: Zenith
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), com.chpwn.iconsupport | gsc.c-p-u-sub-type (>= 2)
+Architecture: iphoneos-arm
+Description: Organisation Done Right
+Maintainer: Muirey03 <tommy.muir@btinternet.com>
+Author: Muirey03 <tommy.muir@btinternet.com>
+Section: Tweaks
+Tag: cydia::commercial, compatible::ios11, compatible::ios12
+Version: 1.0.9
+Installed-Size: 748
+Depiction: https://repo.chariz.io/package/com.muirey03.zenith/
+SileoDepiction: https://repo.chariz.io/api/sileo/package/com.muirey03.zenith/depiction.json
+Icon: https://repo.chariz.io/package/com.muirey03.zenith/icon@3x.png
+Filename: debs/chrpay/com.muirey03.zenith_1.0.9_iphoneos-arm.deb
+SHA256: 55bcb6de5ce34dc4a69855f9c87b9a4fab31cd8cec3f861a5b67293ff3672ed6
+MD5sum: 326e75d5b0d4e5e691b3a32ecac52a9d
+Size: 260606

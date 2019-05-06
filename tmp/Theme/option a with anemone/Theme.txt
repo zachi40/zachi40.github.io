@@ -1,0 +1,11 @@
+App location:
+/private/var/containers/Bundle/Application/
+
+theme:
+create a folder with name theme and location in /Library/Themes/
+go to info.plist in app -> find <key>CFBundleIdentifier</key> copy the name from <string> </string> and rename the image to name@2x.png, name@3x.png
+open the anemone and choose the theme
+
+
+name@2x.png - 120-120 px
+name@3x.png - 180-180 px

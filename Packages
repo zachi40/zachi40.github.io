@@ -1,0 +1,58 @@
+Package: com.zachi40.theme1
+Name: Test sileo
+Version: 1.0
+Pre-Depends: firmware (>= 5.0), dpkg (>= 1.14.25-8)
+Depends: winterboard
+Architecture: iphoneos-arm
+Description: The standard terminal emulator with added awesome
+Maintainer: zachi40 <admin@admin.com>
+Author: zachi40 <https://zachi40.github.io/cydia>
+HomePage: https://zachi40.github.io/cydia
+Section: testing sileo
+Installed-Size: 123
+Size: 742
+Filename: debs/ws.hbang.newterm_1.0_beta1_iphoneos-arm.deb
+Depiction: https://cydia.hbang.ws/package/ws.hbang.notitoggle/
+SileoDepiction: sileoPackages/ws.hbang.notitoggle/depiction.json
+MD5sum: 0e7ce34f2934cf1a1b2b836bc54abcac
+SHA1: 23d1f7c2152184e66ecf604467af44a520e8fd45
+SHA256: 509d9d9c8fac382070bacf63c866eb8867c7edd0480a9587c38c909f59c41feb
+
+Package: org.wuffs.nsfwgram
+Name: NSFWgram
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: View explicit channels/groups in Telegram (5.0+)
+Maintainer: Ninji <ninji@wuffs.org>
+Author: Ninji <ninji@wuffs.org>
+Section: Tweaks
+Version: 0.0.4
+Installed-Size: 136
+MD5sum: f6252af98f572d032e535b1982348a6c
+SHA1: 7c009b1143aabb81bb2b52a9296f020e40bc543f
+SHA256: e546e9b872e35165a6f11c5b6cb415fc46c38d6528bd5d9a568392084445db8f
+Filename: cydia-master/org.wuffs.nsfwgram_0.0.4_iphoneos-arm.deb
+Depiction: https://cydia.hbang.ws/package/ws.hbang.notitoggle/
+SileoDepiction: sileoPackages/ws.hbang.notitoggle/depiction.json
+Size: 3348
+
+Package: ws.hbang.newterm
+Name: NewTerm
+Pre-Depends: firmware (>= 5.0), dpkg (>= 1.14.25-8)
+Depends: bash, coreutils, ncurses, system-cmds
+Architecture: iphoneos-arm
+Description: The standard terminal emulator with added awesome
+Maintainer: HASHBANG Productions <support@hbang.ws>
+Author: HASHBANG Productions <support@hbang.ws>
+Section: Terminal Support
+Version: 1.0~beta1
+Installed-Size: 2340
+Size: 537900
+Filename: cydia-master/ws.hbang.newterm_1.0_beta1_iphoneos-arm.deb
+Depiction: https://cydia.hbang.ws/package/ws.hbang.notitoggle/
+SileoDepiction: sileoPackages/ws.hbang.notitoggle/depiction.json
+MD5sum: 7ad971db62c2cf2489b9ef4ff917a663
+SHA1: 8539d8b3253af95bd23536bcc2ba975521fa9483
+SHA256: a52ef051f172bdeacfbdb8b45efe07e53aa9bd8286ecb0960f5b97a882d28e97
+
+

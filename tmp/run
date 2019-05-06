@@ -1,0 +1,13 @@
+dpkg -b name
+
+App location:
+/private/var/containers/Bundle/Application/
+
+theme:
+go to info.plist in app -> find <key>CFBundleIdentifier</key>
+
+
+mkdir theos/sdks
+cd theos/sdks
+wget https://raw.githubusercontent.com/Sn0wCooder/theos-sdks/master/iPhoneOS8.1.sdk.tbz2
+tar xvf iPhoneOS8.1.sdk.tbz2

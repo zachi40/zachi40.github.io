@@ -1,0 +1,10 @@
+Package: com.deporepo.theme1
+Name: Test1
+Version: 1.0
+Architecture: iphoneos-arm
+HomePage: https://zachi40.github.io/cydia
+Maintainer: admin
+Author: admin <https://zachi40.github.io/cydia>
+Section: testing
+Conflicts: com.packageidont.like
+Depends: winterboard

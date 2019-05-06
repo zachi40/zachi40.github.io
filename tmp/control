@@ -1,0 +1,19 @@
+Package: com.zachi40.theme1
+Name: Test sileo
+Version: 1.0
+Pre-Depends: firmware (>= 5.0), dpkg (>= 1.14.25-8)
+Depends: winterboard
+Architecture: iphoneos-arm
+Description: The standard terminal emulator with added awesome
+Maintainer: zachi40 <admin@admin.com>
+Author: zachi40 <https://zachi40.github.io/cydia>
+HomePage: https://zachi40.github.io/cydia
+Section: testing sileo
+Installed-Size: 123
+Size: 742
+Filename: debs/ws.hbang.newterm_1.0_beta1_iphoneos-arm.deb
+Depiction: https://cydia.hbang.ws/package/ws.hbang.notitoggle/
+SileoDepiction: sileoPackages/ws.hbang.notitoggle/depiction.json
+MD5sum: 0e7ce34f2934cf1a1b2b836bc54abcac
+SHA1: 23d1f7c2152184e66ecf604467af44a520e8fd45
+SHA256: 509d9d9c8fac382070bacf63c866eb8867c7edd0480a9587c38c909f59c41feb

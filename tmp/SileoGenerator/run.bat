@@ -1,0 +1,1 @@
+java -jar SileoGenerator-1.0.jar create
